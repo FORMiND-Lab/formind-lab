@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        FORMiND Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **FORMiND Lab** (Formal Methods & Intelligent Design Laboratory) was established on 06 Jan, 2026.
   
   - block: collection
     content:

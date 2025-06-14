@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research interests span \textbf{hardware formal verification}, including efficient verification of data-path circuits and equivalence checking across circuit modalities; and \textbf{AI4EDA}, including circuit representation learning for VLSI testing.
+bio: My current research interests span **hardware formal verification**, including efficient verification of data-path circuits and equivalence checking across circuit modalities; and **AI4EDA**, including circuit representation learning for VLSI testing.
 
 interests:
   - Artificial Intelligence
