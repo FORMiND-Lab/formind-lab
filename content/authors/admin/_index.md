@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Min Li
+title: LI, Min 李旻 
 
 # Full Name (for SEO)
 first_name: Min
@@ -15,11 +15,10 @@ role: Professor, School of Integrated Circuit
 # Organizations/Affiliations
 organizations:
   - name: Southeast University
-    url: ''
+    url: 'https://ic.seu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research interests span **hardware formal verification**, including efficient verification of data-path circuits and equivalence checking across circuit modalities; and **AI4EDA**, including circuit representation learning for VLSI testing.
-
+bio: ''
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -39,6 +38,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: email
+    icon_pack: fas 
+    link: mailto:minli.amoy@gmail.com
+  - icon: weixin
+    icon_pack: brands
+    link: ATleeman
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=X5gRH80AAAAJ
@@ -62,5 +67,7 @@ highlight_name: true
 user_groups:
   - Researchers
 ---
-
 Building Silicon-Proven Verification Tools. Rejecting paper/胶片-only "breakthroughs". Ex. Huawei Engineer.
+
+My current research interests span **hardware formal verification**, including efficient verification of data-path circuits and equivalence checking across circuit modalities; and **AI4EDA**, including circuit representation learning for VLSI testing.
+
