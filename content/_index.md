@@ -25,8 +25,7 @@ sections:
     content:
       title: News
       subtitle: ''
-      text: 
-        **June 2026**: Lab website launched. Welcomed **Xudong Hu** as the inaugural member; he will commence his Ph.D. program in September 2026.
+      text: **June 2026**: Lab website launched. Welcomed **Xudong Hu** as the inaugural member; he will commence his Ph.D. program in September 2026.
   
   - block: markdown
     id: people
