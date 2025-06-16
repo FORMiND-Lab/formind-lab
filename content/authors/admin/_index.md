@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-    - course: Ph.D. in Computer Science and Engineering. Supervisor - Prof. XU, Qiang
+    - course: Ph.D. in Computer Science and Engineering
       institution: The Chinese University of Hong Kong
       year: 2023
     - course: Bachelor in Electronic Engineering
