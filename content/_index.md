@@ -13,6 +13,7 @@ sections:
         filename: formind_logo.PNG
       text: |
         <br>
+
         Welcome to the Formal Methods & Intelligent Design Laboratory (**FORMiND Lab**), led by Professor Min Li. Established on January 6, 2025, our research group is primarily based in Nanjing and Shenzhen.
 
 
