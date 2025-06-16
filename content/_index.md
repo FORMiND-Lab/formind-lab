@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
 
-        Welcome to the Formal Methods & Intelligent Design Laboratory (**FORMiND Lab**), led by Dr. Min LI. Established in June 2025, FORMiND Lab is affiliated with both [NCTIEDA](https://www.nctieda.com/) and [the School of Integrated Circuits at Southeast University](https://ic.seu.edu.cn/); our research group is primarily based in Nanjing and Shenzhen.
+        Welcome to the Formal Methods & Intelligent Design Laboratory (**FORMiND Lab**), led by Dr. Min LI. Established in June 2025, FORMiND Lab is affiliated with both [NCTIEDA](https://www.nctieda.com/) and [the School of Integrated Circuits at Southeast University](https://ic.seu.edu.cn/); our research group is primarily based in Nanjing and Shenzhen, China.
 
 
         FORMiND Lab prioritizes **solid end-to-end improvements** in hardware design and verification, moving beyond paper/胶片-only "breakthroughs". Ultimately, our goal is to empower China's domestic hardware formal verification tools to achieve global leadership. 
@@ -40,7 +40,8 @@ sections:
     content:
       title: Tools
       subtitle: ''
-      text: add academic tools here.
+      text: |
+        We will first enhance academic formal verification tool (Yosys SBY) to support RTL datapath verificaition. Hopefully, code will be release in the end of 2025.
 
   - block: markdown
     id: publications
