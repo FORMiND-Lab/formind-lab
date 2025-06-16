@@ -21,7 +21,7 @@ organizations:
 bio: ''
 interests:
   - Hardware Formal Verification
-  - VLSI Testing 
+  - Symbolic Reasoning
   - Intelligent Design
 
 education:
