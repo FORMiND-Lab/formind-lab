@@ -61,6 +61,29 @@ sections:
       title: Publications 
       subtitle: ''
       text: |
-        NOTE: Following two years of intensive focus on industrial challenges (i.e., great HiSicilon in-house formal verification tool) without first-author publications, Dr. Li and his Ph.D. team are now positioned to publish **production-ready rigorous papers** that bridge academia and industry. Good news coming soon!
+        **NOTE**: Following two years of intensive focus on industrial challenges (i.e., great HiSicilon in-house formal verification tool) without first-author publications, Min is now positioned to publish **production-ready rigorous papers** that bridge academia and industry. Good news coming soon!
+
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      text: |-
+        Our lab is headquartered at **Nanjing National EDA Innovation Center (NCTIEDA) in Jiangbei District**, hosting multiple students through cooperative education programs. Motivated candidates are invited to contact Dr. Min regarding internship and research opportunities. 
+
+        Min welcomes discussions with qualified individuals over coffee! Please note that Min splits his time between **Shenzhen and Nanjing**; advance email coordination is preferred for meetings.   
+      email: minli.amoy@gmail.com
+      # Automatically link email and phone or display as text?
+      autolink: true
+    
+      # Email form provider
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false
+    design:
+      columns: '1'
 
 ---
