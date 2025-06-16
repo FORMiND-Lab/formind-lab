@@ -26,7 +26,7 @@ sections:
       title: News
       subtitle: ''
       text: |
-        **June 2025**: 🎉Dr. Min Li departed from Huawei Noah's Ark Lab and established the FORMiND Lab website; he will join Southeast University this summer. 🎉Welcoming **Xudong Hu** as the inaugural member, who commences his Ph.D. program in September 2025.
+        **June 2025**: 🎉Dr. Min Li departed from Huawei Noah's Ark Lab and launched the FORMiND Lab website; he will join Southeast University this summer. 🎉Welcoming **Xudong Hu** as the inaugural member, who commences his Ph.D. program in September 2025.
   
   - block: markdown
     id: people
