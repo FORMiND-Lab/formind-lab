@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-    - course: Ph.D. in Computer Science and Engineering
+    - course: Ph.D. in Computer Science and Engineering. Supervisor: Prof. XU, Qiang
       institution: The Chinese University of Hong Kong
       year: 2023
     - course: Bachelor in Electronic Engineering
@@ -64,7 +64,6 @@ highlight_name: true
 user_groups:
   - Principal Investigator
 ---
-Building Silicon-Proven Verification Tools. Rejecting paper/胶片-only "breakthroughs". Ex. Huawei Engineer.
+Building Silicon-Proven Verification Tools.  Valuing substance over paper-only or 胶片 "breakthroughs.". Ex. Huawei Engineer, critically aware of the pitfalls of over-promising without execution.
 
-My current research interests span **hardware formal verification**, including efficient verification of data-path circuits and equivalence checking across circuit modalities; and **AI4EDA**, including circuit representation learning for VLSI testing.
-
+My current research interests span **Hardware Formal Verification**, including efficient verification of data-path circuits and equivalence checking across circuit modalities; and **AI4EDA**, including circuit representation learning for logic verification and synthesis. After two years intensively focused on industrial challenges, primarily through developing HiSilicon's in-house formal verification tool, I am now poised to publish **production-ready rigorous papers** that bridge academia and industry. Additionally, I am eager to explore collaboration opportunities with leading domestic EDA and circuit design companies.

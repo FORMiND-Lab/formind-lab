@@ -61,7 +61,7 @@ sections:
       title: Publications 
       subtitle: ''
       text: |
-        **NOTE**: Following two years of intensive focus on industrial challenges (i.e., great HiSilicon in-house formal verification tool) without first-author publications, Min is now positioned to publish **production-ready rigorous papers** that bridge academia and industry. Good news coming soon!
+        **NOTE**: Good news coming soon!
 
   - block: contact
     id: contact
