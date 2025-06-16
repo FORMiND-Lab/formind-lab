@@ -10,11 +10,11 @@ sections:
       title: |
         FORMiND Lab
       image:
-        filename: welcome.jpg
+        filename: formind_logo.png
       text: |
         <br>
         
-        The **FORMiND Lab** (Formal Methods & Intelligent Design Laboratory) was established on 06 Jan, 2026.
+        The **FORMiND Lab** (Formal Methods & Intelligent Design Laboratory) was established on Jan 06, 2025.
   
   - block: collection
     content:

@@ -20,9 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ''
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Hardware Formal Verification
+  - VLSI Testing 
+  - Intelligent Design
 
 education:
   courses:
