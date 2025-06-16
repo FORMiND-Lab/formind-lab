@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
 
-        Welcome to the Formal Methods & Intelligent Design Laboratory (**FORMiND Lab**), led by Dr. Min LI. Established in June 2025, FORMiND Lab is affiliated with both [NCTIEDA](https://www.nctieda.com/) and [the School of Integrated Circuits at Southeast University](https://ic.seu.edu.cn/); our research group is primarily based in Nanjing and Shenzhen.
+        Welcome to the Formal Methods & Intelligent Design Laboratory (**FORMiND Lab**), led by Dr. Min LI. Established in June 2025, FORMiND Lab is affiliated with both [NCTIEDA](https://www.nctieda.com/) and [the School of Integrated Circuits at Southeast University](https://ic.seu.edu.cn/); our research group is primarily based in Nanjing && Shenzhen, China.
 
 
         FORMiND Lab prioritizes **solid end-to-end improvements** in hardware design and verification, moving beyond paper/胶片-only "breakthroughs". Ultimately, our goal is to empower China's domestic hardware formal verification tools to achieve global leadership. 
@@ -26,7 +26,7 @@ sections:
       title: News
       subtitle: ''
       text: |
-        **June 2025**: 🎉Dr. Min Li departed from Huawei Noah's Ark Lab and established the FORMiND Lab website; he will join Southeast University this summer. 🎉Welcoming **Xudong Hu** as the inaugural member, who commences his Ph.D. program in September 2025.
+        **June 2025**: 🎉Dr. Min Li departed from Huawei Noah's Ark Lab and just launched the FORMiND Lab website; he will join Southeast University this summer. 🎉Welcoming **Xudong Hu** as the inaugural member, who commences his Ph.D. program in Fall 2025.
   
   - block: people
     id: people
@@ -52,13 +52,15 @@ sections:
     content:
       title: Tools
       subtitle: ''
-      text: add academic tools here.
+      text: | 
+        We will develop an **AI-augmented verification toolchain** based on [SymbiYosys](https://yosyshq.readthedocs.io/projects/sby/en/latest/), targeting pure RTL datapath verification. **With AI-native architectural principles embedded throughout the development lifecycle**, the enhanced codebase is scheduled for release by Q4 2025.
 
   - block: markdown
     id: publications
     content:
       title: Publications 
       subtitle: ''
-      text: add publications here.
+      text: |
+        NOTE: Following two years of intensive focus on industrial challenges (i.e., great HiSicilon in-house formal verification tool) without first-author publications, Dr. Li and his Ph.D. team are now positioned to publish **production-ready rigorous papers** that bridge academia and industry. Good news coming soon!
 
 ---
