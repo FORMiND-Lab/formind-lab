@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hu, Xudong 胡旭东
+title: HU, Xudong 胡旭东
 
 # Full name (for SEO)
 first_name: Xudong
