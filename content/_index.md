@@ -6,6 +6,7 @@ type: landing
 
 sections:
   - block: hero
+    id: home
     content:
       title: |
         Introduction 
