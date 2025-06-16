@@ -31,9 +31,21 @@ sections:
   - block: markdown
     id: people
     content:
-      title: People
-      subtitle: ''
-      text: add lab members here.
+      title: Meet the Team
+      # Choose which groups/teams of users to display.
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      user_groups:
+          - Principal Investigator
+          - Ph.D. Students
+          - Grad Students
+          - Visitors
+          - Alumni
+      sort_by: Params.last_name
+      sort_ascending: true
+    design:
+      show_interests: false
+      show_role: true
+      show_social: true
 
   - block: markdown
     id: tools

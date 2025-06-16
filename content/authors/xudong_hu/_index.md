@@ -64,7 +64,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
+  - Ph.D. Students
 ---
 
 Xudong Hu is a recent graduate from the School of Electrical Engineering at Southeast University and will pursue Ph.D. at the School of Integrated Circuits, Southeast University, under the supervision of Prof. Min Li starting in Fall 2025.
