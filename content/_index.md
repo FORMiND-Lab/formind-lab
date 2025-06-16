@@ -13,9 +13,7 @@ sections:
         filename: formind_logo.PNG
       text: |
         <br>
-        Welcome to the Formal Methods & Intelligent Design Laboratory (FORMiND Lab), led by Professor Min Li. Established on January 6, 2025, our research group is primarily based in Nanjing and Shenzhen.
-
-        We focus on advancing **production-ready** formal verification and intelligent design methodologies for the circuit industry, with particular interest in Theorem Proving for Datapath Verification, Transfer Learning for Agile Datapath Design and Circuit Function Learning. 
+        Welcome to the Formal Methods & Intelligent Design Laboratory (**FORMiND Lab**), led by Professor Min Li. Established on January 6, 2025, our research group is primarily based in Nanjing and Shenzhen.
 
         FORMiND Lab prioritizes **solid end-to-end improvements** in hardware design and verification, moving beyond paper-only "breakthroughs". Ultimately, our goal is to empower China's domestic hardware formal verificatibn tools to achieve global leadership. 
   
