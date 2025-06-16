@@ -10,7 +10,7 @@ sections:
       title: |
         FORMiND Lab
       image:
-        filename: formind_logo.png
+        filename: formind_logo.PNG
       text: |
         <br>
         
