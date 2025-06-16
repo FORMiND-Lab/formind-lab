@@ -15,7 +15,7 @@ role: Professor, School of Integrated Circuit
 # Organizations/Affiliations
 organizations:
   - name: Southeast University
-    url: 'https://ic.seu.edu.cn/'
+    url: 'https://www.seu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
