@@ -15,29 +15,18 @@ sections:
       text: |
         <br>
 
-        Welcome to the Formal Methods & Intelligent Design Laboratory (**FORMiND Lab**), led by Professor Min Li. Established on January 6, 2025, our research group is primarily based in Nanjing and Shenzhen.
+        Welcome to the Formal Methods & Intelligent Design Laboratory (**FORMiND Lab**), led by Professor Min Li. Established in Jan. 2025, FORMiND Lab is affiliated with both [NCTIEDA](https://www.nctieda.com/) and [the School of Integrated Circuits at Southeast University](https://ic.seu.edu.cn/); our research group is primarily based in Nanjing and Shenzhen.
 
 
         FORMiND Lab prioritizes **solid end-to-end improvements** in hardware design and verification, moving beyond paper/胶片-only "breakthroughs". Ultimately, our goal is to empower China's domestic hardware formal verification tools to achieve global leadership. 
   
-  - block: collection
+  - block: markdown
+    id: news
     content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
+      title: News
+      subtitle: ''
+      text: 
+        **June 2026**: Lab website launched. Welcomed **Xudong Hu** as the inaugural member; he will commence his Ph.D. program in September 2026.
   
   - block: markdown
     id: people
