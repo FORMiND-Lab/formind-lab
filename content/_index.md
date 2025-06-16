@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-06-16
 type: landing
 
 sections:
@@ -39,44 +39,24 @@ sections:
       columns: '1'
   
   - block: markdown
+    id: people
     content:
-      title:
+      title: People
       subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
+      text: add lab members here.
 
   - block: markdown
+    id: tools
     content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+      title: Tools
+      subtitle: ''
+      text: add academic tools here.
+
+  - block: markdown
+    id: publications
+    content:
+      title: Publications 
+      subtitle: ''
+      text: add publications here.
+
 ---
