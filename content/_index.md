@@ -53,7 +53,7 @@ sections:
       title: Tools
       subtitle: ''
       text: | 
-        We will develop an **AI-augmented verification toolchain** based on [SymbiYosys](https://yosyshq.readthedocs.io/projects/sby/en/latest/), targeting pure RTL datapath verification. **With AI-native architectural principles embedded throughout the development lifecycle**, the enhanced codebase is scheduled for release by Q4 2025.
+        We will develop an **AI-augmented verification toolchain** based on [SymbiYosys](https://yosyshq.readthedocs.io/projects/sby/en/latest/) or [circt](https://github.com/llvm/circt), targeting pure RTL datapath verification. **With AI-native architectural principles embedded throughout the development lifecycle**, the enhanced codebase is scheduled for release by Q4 2025.
 
   - block: markdown
     id: publications
