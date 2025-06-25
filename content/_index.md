@@ -74,7 +74,7 @@ sections:
         Min welcomes coffee discussions with students/researchers/engineers passionate about developing cutting-edge EDA tools! Please note that Min splits his time between **Shenzhen** and **Nanjing**; advance email coordination is preferred for on-site meetings.
 
         <br>
-        <iframe src="https://calendar.google.com/calendar/u/0?cid=bWlubGkuYW1veUBnbWFpbC5jb20" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+        <iframe src="https://calendar.google.com/calendar/embed?src=minli.amoy%40gmail.com&ctz=Asia%2FHong_Kong" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
       email: minli.amoy@gmail.com
       # Automatically link email and phone or display as text?
       autolink: true
