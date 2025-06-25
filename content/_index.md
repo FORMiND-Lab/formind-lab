@@ -38,7 +38,7 @@ sections:
           - Principal Investigator
           - Ph.D. Students
           - Grad Students
-          - Engineer
+          - Engineers
           - Visitors
           - Alumni
       sort_by: Params.last_name
