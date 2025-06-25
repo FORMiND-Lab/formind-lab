@@ -54,7 +54,7 @@ sections:
       title: Tools
       subtitle: ''
       text: | 
-        We will develop an **AI-augmented verification toolchain** based on [SymbiYosys](https://yosyshq.readthedocs.io/projects/sby/en/latest/) or [circt](https://github.com/llvm/circt), targeting pure RTL datapath verification. **With AI-native architectural principles embedded throughout the development lifecycle**, the enhanced codebase is scheduled for release by Q4 2025.
+        We are developing **EquivFusion**, an AI-augmented verification toolchain built on [circt](https://github.com/llvm/circt). It unifies equivalence checking from algorithms to netlists for efficient sign-off. The codebase is scheduled for release by Q4 2025
 
   - block: markdown
     id: publications
@@ -72,18 +72,13 @@ sections:
         Our lab will be headquartered at **National EDA Innovation Center (NCTIEDA), Jiangbei, Nanjing**. We are looking for motivated students to join FORMiND Lab as research interns, master or Ph.D. students in Southeast University! Experienced engineers are also welcome - NCTIEDA offers competitive compensation packages exceeding industry standards in the EDA field.
 
         Min welcomes coffee discussions with students/researchers/engineers passionate about developing cutting-edge EDA tools! Please note that Min splits his time between **Shenzhen** and **Nanjing**; advance email coordination is preferred for on-site meetings.
+
+        <br>
+        <iframe src="https://calendar.google.com/calendar/u/0?cid=bWlubGkuYW1veUBnbWFpbC5jb20" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
       email: minli.amoy@gmail.com
       # Automatically link email and phone or display as text?
       autolink: true
     
-      # Email form provider
-      # form:
-      #   provider: netlify
-      #   formspree:
-      #     id:
-      #   netlify:
-      #     # Enable CAPTCHA challenge to reduce spam?
-      #     captcha: false
     design:
       columns: '1'
 
