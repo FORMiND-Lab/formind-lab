@@ -25,9 +25,8 @@ organizations:
 bio: ''
 
 interests:
+  - Hardware Formal Verification
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 education:
   courses:
@@ -63,4 +62,4 @@ user_groups:
 
 Xudong Hu is a recent graduate from the School of Electrical Engineering at Southeast University and will pursue Ph.D. at the School of Integrated Circuits, Southeast University, under the supervision of Prof. Min Li starting in Fall 2025.
 
-My current research focuses on the following areas: **AI4EDA**
+My current research focuses on the following areas: **Hardware Formal Verification** and **AI4EDA**.
