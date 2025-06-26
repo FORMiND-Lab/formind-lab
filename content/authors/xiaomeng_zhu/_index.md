@@ -24,7 +24,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ''
 
-Professional Certifications:
+interests:
   - PMP® – Project Management Professional, PMI
   - NPDP – New Product Development Professional, PDMA
 
