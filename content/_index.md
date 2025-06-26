@@ -38,6 +38,7 @@ sections:
           - Principal Investigator
           - Ph.D. Students
           - Grad Students
+          - Project Manager
           - Engineers
           - Visitors
           - Alumni
