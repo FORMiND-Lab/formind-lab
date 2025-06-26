@@ -67,18 +67,18 @@ sections:
   - block: contact
     id: contact
     content:
+      email: minli.amoy@gmail.com
+      # Automatically link email and phone or display as text?
+      autolink: true
       title: Contact
       text: |
         Our lab will be headquartered at **National EDA Innovation Center (NCTIEDA), Jiangbei, Nanjing**. We are looking for motivated students to join FORMiND Lab as research interns, master or Ph.D. students in Southeast University! Experienced engineers are also welcome - NCTIEDA offers competitive compensation packages exceeding industry standards in the EDA field.
 
         Min welcomes coffee discussions with students/researchers/engineers passionate about developing cutting-edge EDA tools! Please note that Min splits his time between **Shenzhen** and **Nanjing**; advance email coordination is preferred for on-site meetings.
 
+        **Calendar**
         <br>
-        <iframe src="https://calendar.google.com/calendar/embed?src=minli.amoy%40gmail.com&ctz=Asia%2FHong_Kong" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-      email: minli.amoy@gmail.com
-      # Automatically link email and phone or display as text?
-      autolink: true
-    
+        <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Asia%2FHong_Kong&showPrint=0&mode=WEEK&src=bWlubGkuYW1veUBnbWFpbC5jb20&src=ZW4uY2hpbmEjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039be5&color=%230b8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>    
     design:
       columns: '1'
 
