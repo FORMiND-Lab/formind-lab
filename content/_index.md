@@ -58,21 +58,21 @@ sections:
         We are developing **EquivFusion**, an AI-augmented verification toolchain built on [circt](https://github.com/llvm/circt). It unifies equivalence checking from algorithms to netlists for efficient sign-off. The codebase is scheduled for release by Q4 2025.
 
   - block: markdown
+    id: talks
+    content:
+      title: Talks
+      subtitle: ''
+      text: |
+        - **Opportunities and Challenges of Hardware Formal Verification in the Era of Large Language Models** [📄](files/ict_ac_summer_school_202507.pdf)  
+          Summer School, State Key Lab of Processors, ICT, CAS. Jul., 2025.
+
+  - block: markdown
     id: publications
     content:
       title: Publications 
       subtitle: ''
       text: |
         **NOTE**: Good news coming soon!
-
-  - block: markdown
-    id: talks
-    content:
-      title: Talks
-      subtitle: ''
-      text: |
-        - [Opportunities and Challenges in Hardware Formal Verification in the Era of Large Language Models](files/ict_ac_summer_school_202507.pdf)  
-          Summer School, State Key Lab of Processors, ICT, CAS. Jul., 2025.
 
 
   - block: contact
