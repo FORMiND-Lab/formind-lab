@@ -65,6 +65,16 @@ sections:
       text: |
         **NOTE**: Good news coming soon!
 
+  - block: markdown
+    id: talks
+    content:
+      title: Talks
+      subtitle: ''
+      text: |
+        - [Opportunities and Challenges in Hardware Formal Verification in the Era of Large Language Models](files/ict_ac_summer_school_202507.pdf)  
+          Summer School, State Key Lab of Processors, ICT, CAS. Jul., 2025.
+
+
   - block: contact
     id: contact
     content:
