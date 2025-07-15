@@ -64,7 +64,7 @@ sections:
       subtitle: ''
       text: |
         - **Opportunities and Challenges of Hardware Formal Verification in the Era of Large Language Models** [📄](files/ict_ac_summer_school_202507.pdf)  
-          *LLM4xPU* Summer School, State Key Lab of Processors, ICT, CAS. Jul., 2025.
+          07/2025: *LLM4xPU* Summer School, State Key Lab of Processors, ICT, CAS.
 
   - block: markdown
     id: publications
