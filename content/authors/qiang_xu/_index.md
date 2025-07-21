@@ -24,19 +24,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ''
 
-interests:
-  - Artificial Intelligence
-  - Electronic Design Automation
-
-education:
-  courses:
-    - course: Professor in Computer Science and Engineering
-      institution: The Chinese University of Hong Kong
-      year: present
-    - course: PhD in Artificial Intelligence
-      institution: McMaster University
-      year: 2005
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -64,3 +51,5 @@ user_groups:
 ---
 
 Qiang Xu is a Professor at The Chinese University of Hong Kong. His current research interests are in the broad areas of AI and EDA. He has published 180+ papers with 8000+ citations, including several best papers at prestigious conferences and an ICCAD Ten Year Retrospective Most Influential Paper. He has supervised ~20 Ph.D. dissertations and his students have won EDAA Outstanding Dissertation Award and the semi-finals of IEEE TTTC Doctoral Thesis Awards.
+
+If you're interested in Professor Xu's lab, you are welcome to explore it further at [this link](https://cure-lab.github.io/).
