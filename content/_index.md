@@ -26,6 +26,8 @@ sections:
       title: News
       subtitle: ''
       text: |
+        **July 2025**: Min has safely landed at SEU! With four master's spots open, he's welcoming students passionate about AI4Formal to join the journey.
+
         **June 2025**: 🎉Dr. Min Li departed from Huawei Noah's Ark Lab and just launched the FORMiND Lab website; he will join Southeast University this summer. 🎉Welcoming **Xudong Hu** as the inaugural member, who commences his Ph.D. program in Fall 2025.
   
   - block: people
@@ -78,12 +80,12 @@ sections:
   - block: contact
     id: contact
     content:
-      email: minli.amoy@gmail.com
+      email: min.li@seu.edu.cn
       # Automatically link email and phone or display as text?
       autolink: true
       title: Contact
       text: |
-        Our lab will be headquartered at **National EDA Innovation Center (NCTIEDA), Jiangbei, Nanjing**. We are looking for motivated students to join FORMiND Lab as research interns, master or Ph.D. students in Southeast University! Experienced engineers are also welcome - NCTIEDA offers competitive compensation packages exceeding industry standards in the EDA field.
+        Our lab is headquartered at **National EDA Innovation Center (NCTIEDA), Jiangbei, Nanjing**. We are looking for motivated students to join FORMiND Lab as research interns, master or Ph.D. students in Southeast University! Experienced engineers are also welcome - NCTIEDA offers competitive compensation packages exceeding industry standards in the EDA field.
 
         Min welcomes coffee discussions with students/researchers/engineers passionate about developing cutting-edge EDA tools! Please note that Min splits his time between **Shenzhen** and **Nanjing**; advance email coordination is preferred for on-site meetings.
 
