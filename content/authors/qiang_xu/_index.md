@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor, The Chinese University of Hong Kong
+role: Professor, Computer Science and Engineering
 
 # Organizations/Affiliations
 organizations:
