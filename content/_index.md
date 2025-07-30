@@ -39,7 +39,7 @@ sections:
       user_groups:
           - Principal Investigator
           - Super-Supervisor
-          - Ph.D. Students
+          - Students
           - Grad Students
           - Project Manager
           - Engineers
