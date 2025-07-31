@@ -61,4 +61,4 @@ user_groups:
   - Engineers
 ---
 
-XuShiming is a Digital IC Design Engineer with 3 years of SOC experience focused on automotive IC design and DPU SOC. Proficient in the entire process of chip design.
+Shiming Xu is a Digital IC Design Engineer with 3 years of SOC experience focused on automotive IC design and DPU SOC. Proficient in the entire process of chip design.

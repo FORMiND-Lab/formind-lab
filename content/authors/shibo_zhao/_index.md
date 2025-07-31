@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhao, Shibo 赵世博
+title: ZHAO, Shibo 赵世博
 
 # Full name (for SEO)
 first_name: Shibo

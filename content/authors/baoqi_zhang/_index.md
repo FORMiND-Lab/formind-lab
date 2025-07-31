@@ -1,37 +1,38 @@
 ---
 # Display name
-title: CHEN, Jiongming 陈炯铭
+title: ZHANG, Baoqi 张宝琪
 
 # Full name (for SEO)
-first_name: Jiongming
-last_name: Chen
+first_name: Baoqi
+last_name: Zhang
 
 # Username (this should match the folder name)
 authors:
-  - jiongming_chen
+  - baoqi_zhang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master - 2025 fall, School of Integrated Circuit
+role: Engineer - NCTIEDA
 
 # Organizations/Affiliations
 organizations:
-  - name: Southeast University
-    url: 'https://ic.seu.edu.cn/'
+  - name: NCTIEDA
+    url: 'https://www.nctieda.com/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
 
 interests:
-  - Hardware Formal Verification
+  - Formal Verification
+  - Equivalence Checking
 
 education:
   courses:
-    - course: Bachelor of Electronic Information Engineering
-      institution: Wenzhou University
-      year: 2025
+    - course: Bachelor in Department of Communication Science and Engineering
+      institution: Fudan University
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -40,10 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:13858422733@163.com'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/CJM-SEU
+    link: 'mailto:zhangbaoqi@nctieda.com'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -56,9 +54,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
+  - Engineers
 ---
 
-Chen Jiongming is a 25th batch undergraduate graduate from the Electrical and Electronic Engineering College of Wenzhou University. He will enter the Integrated Circuit College of Southeast University to pursue a master's degree in 2025, and his supervisor is Professor Li Min.
-
-My research interests include: **Large Language Models**, **Hardware Formal Verification** and **AI4EDA**.
+Baoqi Zhang has three years of experience in front-end development of formal verification tool FPV; familiar with the front-end design process of formal verification tools.
