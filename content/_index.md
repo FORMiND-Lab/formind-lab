@@ -45,7 +45,7 @@ sections:
           - Engineers
           - Visitors
           - Alumni
-      sort_by: Params.authors
+      sort_by: Params.authors[0]
       sort_ascending: true
     design:
       show_interests: false
