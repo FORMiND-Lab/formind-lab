@@ -1,20 +1,20 @@
 ---
 # Display name
-title: HU, Xudong 胡旭东
+title: CHEN, Jiongming 陈炯铭
 
 # Full name (for SEO)
-first_name: Xudong
-last_name: a_Hu
+first_name: Jiongming
+last_name: b_Chen
 
 # Username (this should match the folder name)
 authors:
-  - a_xudong_hu
+  - jiongming_chen
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. - 2025 fall, School of Integrated Circuit
+role: Master - 2025 fall, School of Integrated Circuit
 
 # Organizations/Affiliations
 organizations:
@@ -26,12 +26,11 @@ bio: ''
 
 interests:
   - Hardware Formal Verification
-  - Artificial Intelligence
 
 education:
   courses:
-    - course: Bachelor in Electrical Engineering
-      institution: Southeast University
+    - course: Bachelor in Electronic Information Engineering
+      institution: Wenzhou University
       year: 2025
 
 # Social/Academic Networking
@@ -41,10 +40,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:peterhu889@gmail.com'
+    link: 'mailto:13858422733@163.com'
   - icon: github
     icon_pack: fab
-    link: https://github.com/Maxwell889
+    link: https://github.com/CJM-SEU
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,6 +59,6 @@ user_groups:
   - Students
 ---
 
-Xudong Hu is a recent graduate from the School of Electrical Engineering at Southeast University and will pursue Ph.D. at the School of Integrated Circuits, Southeast University, under the supervision of Prof. Min Li starting in Fall 2025.
+Jiongming Chen is a recent graduate of the School of Electrical and Electronic Engineering, Wenzhou University. He will be pursuing a master’s degree at the School of Integrated Circuit, Southeast University, starting in Fall 2025, under the supervision of Professor Min Li.
 
-My current research focuses on the following areas: **Hardware Formal Verification** and **AI4EDA**.
+My research interests include: **Large Language Models**, **Hardware Formal Verification** and **AI4EDA**.

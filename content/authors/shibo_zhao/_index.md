@@ -1,14 +1,14 @@
 ---
 # Display name
-title: CHEN, Jiongming 陈炯铭
+title: ZHAO, Shibo 赵世博
 
 # Full name (for SEO)
-first_name: Jiongming
-last_name: Chen
+first_name: Shibo
+last_name: b_Zhao
 
 # Username (this should match the folder name)
 authors:
-  - b_jiongming_chen
+  - Shibo_zhao
 
 # Is this the primary user of the site?
 superuser: false
@@ -25,12 +25,12 @@ organizations:
 bio: ''
 
 interests:
-  - Hardware Formal Verification
+  - AI for Digital IC Design Flow
 
 education:
   courses:
-    - course: Bachelor of Electronic Information Engineering
-      institution: Wenzhou University
+    - course: Bachelor in Integrated Circuit Design and Integrated System
+      institution: University of Electronic Science and Technology of China
       year: 2025
 
 # Social/Academic Networking
@@ -40,10 +40,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:13858422733@163.com'
+    link: 'mailto:wuzhizhu22@gmail.com'
   - icon: github
     icon_pack: fab
-    link: https://github.com/CJM-SEU
+    link: https://github.com/Wuzhizhu22
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,6 +59,6 @@ user_groups:
   - Students
 ---
 
-Chen Jiongming is a 25th batch undergraduate graduate from the Electrical and Electronic Engineering College of Wenzhou University. He will enter the Integrated Circuit College of Southeast University to pursue a master's degree in 2025, and his supervisor is Professor Li Min.
+ShiBo Zhao is a recent graduate from the School of Integrated Circuit Science and Engineering at the University of Electronic Science and Technology of China. I will pursue my Master's degree at the School of Integrated Circuits, Southeast University, starting in Fall 2025, under the supervision of Prof. Min Li.
 
-My research interests include: **Large Language Models**, **Hardware Formal Verification** and **AI4EDA**.
+My research interests broadly encompass **AI-driven Electronic Design Automation** and  **Digital Integrated Circuit Design and Verification**.

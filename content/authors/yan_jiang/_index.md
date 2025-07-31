@@ -4,11 +4,11 @@ title: JIANG, Yan 江燕
 
 # Full name (for SEO)
 first_name: Yan
-last_name: Jiang
+last_name: b_Jiang
 
 # Username (this should match the folder name)
 authors:
-  - b_yan_jiang
+  - yan_jiang
 
 # Is this the primary user of the site?
 superuser: false
