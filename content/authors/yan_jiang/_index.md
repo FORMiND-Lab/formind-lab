@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:peterhu889@gmail.com'
+    link: 'mailto:1409627259@qq.com'
   - icon: github
     icon_pack: fab
     link: https://github.com/JYan80
