@@ -8,7 +8,7 @@ last_name: Chen
 
 # Username (this should match the folder name)
 authors:
-  - 2_jiongming_chen
+  - b_jiongming_chen
 
 # Is this the primary user of the site?
 superuser: false

@@ -1,20 +1,20 @@
 ---
 # Display name
-title: JIANG, Yan 江燕
+title: HU, Xudong 胡旭东
 
 # Full name (for SEO)
-first_name: Yan
-last_name: Jiang
+first_name: Xudong
+last_name: Hu
 
 # Username (this should match the folder name)
 authors:
-  - 2_yan_jiang
+  - a_xudong_hu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master - 2025 fall, School of Integrated Circuit
+role: Ph.D. - 2025 fall, School of Integrated Circuit
 
 # Organizations/Affiliations
 organizations:
@@ -27,12 +27,11 @@ bio: ''
 interests:
   - Hardware Formal Verification
   - Artificial Intelligence
-  - Tennis
 
 education:
   courses:
-    - course: Bachelor in School of Electro-Mechanical Engineering
-      institution: Xidian University
+    - course: Bachelor in Electrical Engineering
+      institution: Southeast University
       year: 2025
 
 # Social/Academic Networking
@@ -42,10 +41,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:1409627259@qq.com'
+    link: 'mailto:peterhu889@gmail.com'
   - icon: github
     icon_pack: fab
-    link: https://github.com/JYan80
+    link: https://github.com/Maxwell889
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,6 +60,6 @@ user_groups:
   - Students
 ---
 
-Yan Jiang is a recent graduate from the School of Electro-Mechanical Engineering at Xidian University and will commence Master's studies at the School of Integrated Circuits, Southeast University in Fall 2025, under the supervision of Professor Min Li.
+Xudong Hu is a recent graduate from the School of Electrical Engineering at Southeast University and will pursue Ph.D. at the School of Integrated Circuits, Southeast University, under the supervision of Prof. Min Li starting in Fall 2025.
 
 My current research focuses on the following areas: **Hardware Formal Verification** and **AI4EDA**.
