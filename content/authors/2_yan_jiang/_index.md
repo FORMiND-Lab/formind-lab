@@ -1,14 +1,14 @@
 ---
 # Display name
-title: CHEN, Jiongming 陈炯铭
+title: JIANG, Yan 江燕
 
 # Full name (for SEO)
-first_name: Jiongming
-last_name: Chen
+first_name: Yan
+last_name: Jiang
 
 # Username (this should match the folder name)
 authors:
-  - jiongming_chen
+  - 2_yan_jiang
 
 # Is this the primary user of the site?
 superuser: false
@@ -26,11 +26,13 @@ bio: ''
 
 interests:
   - Hardware Formal Verification
+  - Artificial Intelligence
+  - Tennis
 
 education:
   courses:
-    - course: Bachelor of Electronic Information Engineering
-      institution: Wenzhou University
+    - course: Bachelor in School of Electro-Mechanical Engineering
+      institution: Xidian University
       year: 2025
 
 # Social/Academic Networking
@@ -40,10 +42,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:13858422733@163.com'
+    link: 'mailto:1409627259@qq.com'
   - icon: github
     icon_pack: fab
-    link: https://github.com/CJM-SEU
+    link: https://github.com/JYan80
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,6 +61,6 @@ user_groups:
   - Students
 ---
 
-Chen Jiongming is a 25th batch undergraduate graduate from the Electrical and Electronic Engineering College of Wenzhou University. He will enter the Integrated Circuit College of Southeast University to pursue a master's degree in 2025, and his supervisor is Professor Li Min.
+Yan Jiang is a recent graduate from the School of Electro-Mechanical Engineering at Xidian University and will commence Master's studies at the School of Integrated Circuits, Southeast University in Fall 2025, under the supervision of Professor Min Li.
 
-My research interests include: **Large Language Models**, **Hardware Formal Verification** and **AI4EDA**.
+My current research focuses on the following areas: **Hardware Formal Verification** and **AI4EDA**.

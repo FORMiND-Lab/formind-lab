@@ -8,7 +8,7 @@ last_name: Zhao
 
 # Username (this should match the folder name)
 authors:
-  - Shibo_zhao
+  - 2_Shibo_zhao
 
 # Is this the primary user of the site?
 superuser: false
