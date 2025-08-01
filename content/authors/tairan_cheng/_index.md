@@ -1,6 +1,6 @@
 ---
 # Display name
-title: CHENG, Tairan 吉忠科
+title: CHENG, Tairan 程泰然
 
 # Full name (for SEO)
 first_name: Tairan
