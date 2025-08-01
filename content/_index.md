@@ -26,7 +26,7 @@ sections:
       title: News
       subtitle: ''
       text: |
-        **August 2025**: 🎉Warmly welcoming four new students **Yan Jiang**, **Shibo Zhao**, **Jiongming Chen**, and **Jieying Wu**, who joined the FORMiND Lab as master’s students in Fall 2025. Looking forward to an exciting journey together!
+        **August 2025**: 🎉Warmly welcoming four new students **Yan Jiang**, **Shibo Zhao**, **Jiongming Chen**, and **Jieying Wu**, who will join the FORMiND Lab as master’s students in Fall 2025. Looking forward to an exciting journey together!
 
         **July 2025**: Min has safely landed at SEU! With four master's spots open, he's welcoming students passionate about AI4Formal to join the journey.
 
