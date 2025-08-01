@@ -39,7 +39,6 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
-    site_title_logo: "media/banner_seu_ic.png"
 
 # Site footer
 
