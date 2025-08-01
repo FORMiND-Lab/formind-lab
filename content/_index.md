@@ -4,10 +4,6 @@ title:
 date: 2025-06-16
 type: landing
 
-banner:
-   image: "banner_seu_ic.png"
-   caption: "Southeast University · School of Integrated Circuits"
-
 sections:
   - block: hero
     id: home
