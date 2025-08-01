@@ -39,6 +39,8 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
+    logo:
+      filename: "banner_seu_ic.png"
 
 # Site footer
 
