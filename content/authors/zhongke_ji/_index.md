@@ -58,7 +58,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Engineers
+  - Engineers(temp)
 ---
 
 Zhongke Ji is a Digital IC Design Engineer with 4 years of experience spanning IP development, FPGA prototyping, SoC integration, and RISC-V architecture. Proficient in the entire chip-design flow.
