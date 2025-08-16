@@ -56,7 +56,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Project Manager
+  - Project Manager(temp)
 ---
 
 Zhu Xiaomeng ,NCTIEDA PM, Specializing in Full Project Lifecycle Management for Integrated Circuit Initiatives, Driving Technological Innovation and Efficient Delivery.
