@@ -62,7 +62,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigator
+  - Professor
 ---
 Building Silicon-Proven Verification Tools.  Valuing substance over paper-only or 胶片 "breakthroughs". Ex. Huawei Engineer, critically aware of the pitfalls of over-promising without execution.
 
