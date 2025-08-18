@@ -70,7 +70,7 @@ sections:
       text: |
         - **Opportunities and Challenges of Hardware Formal Verification in the Era of Large Language Models** [📄](files/ict_ac_summer_school_202507.pdf)  
           07/2025: *LLM4xPU* Summer School, State Key Lab of Processors, ICT, CAS.
-        - **Applications and Prospects of Formal Methods in Hardware Verification Tools** [📄](files/ict_is_youth_202508.pdf)
+        - **Applications and Prospects of Formal Methods in Hardware Verification Tools** [📄](files/ict_is_youth_202508.pdf)  
           08/2025: 2025 CCF Formal Methods Committee Youth Academic Forum — Symposium on the Application of Formal Methods in Foundational Software / IS, CAS.
 
   - block: markdown
