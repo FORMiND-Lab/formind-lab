@@ -70,8 +70,8 @@ sections:
       text: |
         - **Opportunities and Challenges of Hardware Formal Verification in the Era of Large Language Models** [📄](files/ict_ac_summer_school_202507.pdf)  
           07/2025: *LLM4xPU* Summer School, State Key Lab of Processors, ICT, CAS.
-        - **Applications and Prospects of Formal Methods in Hardware Verification Tools** [📄](files/ict_is_youth_202508.pdf)  
-          08/2025: 2025 CCF Formal Methods Committee Youth Academic Forum — Symposium on the Application of Formal Methods in Foundational Software / IS, CAS.[🎬]（https://www.bilibili.com/video/BV19NePzNEus?buvid=XU9CB8E97888E6317C8C629982ABDD4E78952&from_spmid=default-value&is_story_h5=false&mid=%2Bgp5S7io8OxAw1lwmhrOGA%3D%3D&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=5ae10524-3e8d-4159-a3dd-8cc7f3c6c1e2&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1755747203&unique_k=Z6McQfX&up_id=36888575&vd_source=de3e205d459754fb14d7c47bd6cf0433&p=9&spm_id_from=333.788.videopod.episodes）
+        - **Applications and Prospects of Formal Methods in Hardware Verification Tools** [📄](files/ict_is_youth_202508.pdf) [🎬](https://www.bilibili.com/video/BV19NePzNEus?buvid=XU9CB8E97888E6317C8C629982ABDD4E78952&from_spmid=default-value&is_story_h5=false&mid=%2Bgp5S7io8OxAw1lwmhrOGA%3D%3D&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=5ae10524-3e8d-4159-a3dd-8cc7f3c6c1e2&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1755747203&unique_k=Z6McQfX&up_id=36888575&vd_source=de3e205d459754fb14d7c47bd6cf0433&p=9&spm_id_from=333.788.videopod.episodes) 
+          08/2025: 2025 CCF Formal Methods Committee Youth Academic Forum — Symposium on the Application of Formal Methods in Foundational Software / IS, CAS.
 
   - block: markdown
     id: publications
