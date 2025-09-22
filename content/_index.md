@@ -26,7 +26,7 @@ sections:
       title: News
       subtitle: ''
       text: |
-        **Sept. 2025**: One paper (Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding) has been accepted by NeurIPS 2025. Congrats to Xiangyu Wen, my intern at Noah Lab, for his outstanding work and dedication throughout the project.
+        **Sept. 2025**:  🎉One paper (Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding) has been accepted by NeurIPS 2025. Congrats to Xiangyu Wen, our awesome intern at Huawei (co-supervised by Junhua and me).
 
         **Aug. 2025**: 🎉Warmly welcoming five new students **Yan Jiang**, **Shibo Zhao**, **Jiongming Chen**, **Jieying Wu**, and **Yang Zhang**, who will join the FORMiND Lab as master’s students in Fall 2025. Looking forward to an exciting journey together!
 
@@ -81,8 +81,8 @@ sections:
       title: Publications 
       subtitle: ''
       text: |
-        - **Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding**
-          Xiangyu Wen, **Min Li**, Junhua Huang, Jianyuan Zhong, Zhijian Xu, Zeju Li, Yongxiang Huang, Mingxuan Yuan, Qiang Xu
+        - **Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding**  
+          Xiangyu Wen, **Min Li**, Junhua Huang, Jianyuan Zhong, Zhijian Xu, Zeju Li, Yongxiang Huang, Mingxuan Yuan, Qiang Xu  
           Conference on Neural Information Processing Systems, (**NeurIPS**), 2025.
 
 
