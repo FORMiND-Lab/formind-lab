@@ -61,4 +61,4 @@ user_groups:
   - Students
 ---
 
-Ding Yi is currently a sophomore student at the College of Integrated Circuit, Southeast University. He is determined to conduct research in the fields of formal hardware verification and AI for EDA/Design under the supervision of Professor Li Min.
+Yi Ding is currently a sophomore student at the College of Integrated Circuit, Southeast University. He is determined to conduct research in the fields of formal hardware verification and AI for EDA/Design under the supervision of Professor Li Min.
