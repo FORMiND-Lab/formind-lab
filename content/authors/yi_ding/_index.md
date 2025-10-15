@@ -1,20 +1,20 @@
 ---
 # Display name
-title: HU, Xudong 胡旭东
+title: DING, Yi 丁一
 
 # Full name (for SEO)
-first_name: Xudong
-last_name: a_Hu
+first_name: Yi
+last_name: c_Ding
 
 # Username (this should match the folder name)
 authors:
-  - xudong_hu
+  - yi_ding
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. - 2025 fall, School of Integrated Circuit
+role: RA - 2024, School of Integrated Circuit
 
 # Organizations/Affiliations
 organizations:
@@ -27,12 +27,13 @@ bio: ''
 interests:
   - Hardware Formal Verification
   - Artificial Intelligence
+  - Be an organizer
 
 education:
   courses:
-    - course: Bachelor in Electrical Engineering
+    - course: Undergraduate Student at the School of Integrated Circuits
       institution: Southeast University
-      year: 2025
+      year: In Progress
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -41,10 +42,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:xudonghu@seu.edu.cn'
+    link: 'mailto:213243805@seu.edu.cn'
   - icon: github
     icon_pack: fab
-    link: https://github.com/Maxwell889
+    link: https://github.com
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,6 +61,4 @@ user_groups:
   - Students
 ---
 
-Xudong Hu is a recent graduate from the School of Electrical Engineering at Southeast University and will pursue Ph.D. at the School of Integrated Circuits, Southeast University, under the supervision of Prof. Min Li starting in Fall 2025.
-
-My current research focuses on the following areas: **Hardware Formal Verification** and **AI4EDA**.
+Ding Yi is currently a sophomore student at the College of Integrated Circuit, Southeast University. He is determined to conduct research in the fields of formal hardware verification and AI for EDA/Design under the supervision of Professor Li Min.
