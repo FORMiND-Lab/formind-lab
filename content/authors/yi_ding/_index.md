@@ -42,10 +42,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:213243805@seu.edu.cn'
+    link: 'mailto:yi.ding@seu.edu.cn'
   - icon: github
     icon_pack: fab
-    link: https://github.com
+    link: https://github.com/DY-Davis
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
