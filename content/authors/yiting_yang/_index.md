@@ -1,14 +1,14 @@
 ---
 # Display name
-title: HAN, Shenghu 韩声虎
+title: YANG, Yiting 杨怡婷
 
 # Full name (for SEO)
-first_name: Shenghu
-last_name: c_Han
+first_name: Yiting
+last_name: c_Yang
 
 # Username (this should match the folder name)
 authors:
-  - shenghu_han
+  - yiting_yang
 
 # Is this the primary user of the site?
 superuser: false
@@ -25,15 +25,12 @@ organizations:
 bio: ''
 
 interests:
-  - Artificial Intelligence
-  - Fitness
-  - Basketball
-  - Cycling
+  - Hardware Formal Verification
 
 education:
   courses:
-    - course: Undergraduate Student at the School of Electronic Science and Engineering
-      institution: Southeast University
+    - course: Undergraduate Student in Integrated Circuit Design and Integrated Systems
+      institution: Hefei University of Technology
       year: In Progress
 
 # Social/Academic Networking
@@ -62,4 +59,4 @@ user_groups:
   - Students
 ---
 
-Shenghu han is a senior undergraduate student majoring in Electronic Science and Technology at Southeast University. He will be joining the FORMiND lab as a Ph.D. student in the next year.
+Yiting Yang is a senior undergraduate student at the School of Microelectronics at the Hefei University of Technology. She will be joining the FORMiND Lab to pursue her Master's degree next year.

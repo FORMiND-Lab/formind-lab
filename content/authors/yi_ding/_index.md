@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: RA - 2024, School of Integrated Circuit
+role: RA - 2025, School of Integrated Circuit
 
 # Organizations/Affiliations
 organizations:
