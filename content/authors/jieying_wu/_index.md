@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:421601452@qq.com'
+    link: 'mailto:jieying.wu@seu.edu.cn'
   - icon: github
     icon_pack: fab
     link: https://github.com/janecrystal1874

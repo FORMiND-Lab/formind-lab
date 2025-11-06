@@ -40,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:wuzhizhu22@gmail.com'
+    link: 'mailto:zhaoshibo22@seu.edu.cn'
   - icon: github
     icon_pack: fab
     link: https://github.com/Wuzhizhu22

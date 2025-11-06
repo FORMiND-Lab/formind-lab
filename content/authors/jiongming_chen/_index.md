@@ -40,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:13858422733@163.com'
+    link: 'mailto:jiongmingchen@seu.edu.cn'
   - icon: github
     icon_pack: fab
     link: https://github.com/CJM-SEU

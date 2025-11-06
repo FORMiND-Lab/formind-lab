@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:1409627259@qq.com'
+    link: 'mailto:yan.jiang@seu.edu.cn'
   - icon: github
     icon_pack: fab
     link: https://github.com/JYan80

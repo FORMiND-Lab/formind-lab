@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:3418452927@qq.com'
+    link: 'mailto:220256563@seu.edu.cn'
   - icon: github
     icon_pack: fab
     link: https://github.com/zhiok
