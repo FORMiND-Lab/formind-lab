@@ -64,7 +64,7 @@ sections:
       title: Tools
       subtitle: ''
       text: | 
-        - [**EquivFusion**][https://github.com/FORMiND-Lab/EquivFusion], an equivalence checking toolchain built on [circt](https://github.com/llvm/circt).
+        - [**EquivFusion**](https://github.com/FORMiND-Lab/EquivFusion), an equivalence checking toolchain built on [circt](https://github.com/llvm/circt).
 
   - block: markdown
     id: talks
