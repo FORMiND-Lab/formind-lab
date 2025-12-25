@@ -26,6 +26,8 @@ sections:
       title: News
       subtitle: ''
       text: |
+        **Dec. 2025**: We have open‑sourced **EquivFusion**, an AI‑augmented verification toolchain built on CIRCT. The main contributors are Mengxia, Baoqi, Jiaying and Min. EquivFusion aims to unify equivalence checking from algorithms to netlists for efficient sign‑off. The project is still in an early development stage, and we welcome feedback and collaboration as it continues to evolve.
+
         **Sept. 2025**:  🎉One paper (Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding) has been accepted by NeurIPS 2025. Congrats to Xiangyu Wen, our awesome intern at Huawei (co-supervised by Junhua and me).
 
         **Aug. 2025**: 🎉Warmly welcoming five new students **Yan Jiang**, **Shibo Zhao**, **Jiongming Chen**, **Jieying Wu**, and **Yang Zhang**, who will join the FORMiND Lab as master’s students in Fall 2025. Looking forward to an exciting journey together!
@@ -62,7 +64,7 @@ sections:
       title: Tools
       subtitle: ''
       text: | 
-        We are developing **EquivFusion**, an AI-augmented verification toolchain built on [circt](https://github.com/llvm/circt). It unifies equivalence checking from algorithms to netlists for efficient sign-off. The codebase is scheduled for release by Q4 2025.
+        - **EquivFusion**[https://github.com/FORMiND-Lab/EquivFusion], an equivalence checking toolchain built on [circt](https://github.com/llvm/circt).
 
   - block: markdown
     id: talks
