@@ -26,7 +26,7 @@ sections:
       title: News
       subtitle: ''
       text: |
-        **Dec. 2025**: We have open‑sourced **EquivFusion**, an AI‑augmented verification toolchain built on CIRCT. The main contributors are Mengxia, Baoqi, Jiaying and Min. EquivFusion aims to unify equivalence checking from algorithms to netlists for efficient sign‑off. The project is still in an early development stage, and we welcome feedback and collaboration as it continues to evolve.
+        **Dec. 2025**: We have open‑sourced **EquivFusion**, a verification toolchain built on CIRCT. The main contributors are Mengxia, Baoqi, Jiaying and Min. EquivFusion aims to unify equivalence checking from algorithms to netlists for efficient sign‑off. The project is still in an early development stage, and we welcome feedback and collaboration as it continues to evolve.
 
         **Sept. 2025**:  🎉One paper (Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding) has been accepted by NeurIPS 2025. Congrats to Xiangyu Wen, our awesome intern at Huawei (co-supervised by Junhua and me).
 
