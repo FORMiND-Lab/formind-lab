@@ -87,7 +87,9 @@ sections:
       subtitle: ''
       text: |
         - <span class="pub-badge pub-badge--iclr">ICLR</span> **Reasoning Scaffolding: Distilling the Flow of Thought from LLMs**
+
           Xiangyu Wen, Junhua Huang, Zeju Li, **Min Li**, Jianyuan Zhong, Zhijian Xu, Mingxuan Yuan, Yongxiang Huang, Qiang Xu
+          
           International Conference on Learning Representations, (**ICLR**), 2026.
         - <span class="pub-badge pub-badge--neurips">NeurIPS</span> **Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding**  
           Xiangyu Wen, **Min Li**, Junhua Huang, Jianyuan Zhong, Zhijian Xu, Zeju Li, Yongxiang Huang, Mingxuan Yuan, Qiang Xu  
