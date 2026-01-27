@@ -72,13 +72,13 @@ sections:
       title: Talks
       subtitle: ''
       text: |
-        - **(Designer Forum 1) TowardAutonomous Chip Design: FromFoundation Models to AgenticEDA**[📄](files/From_Generation_to_Verified_Synthesis.pdf)
-          
-          01/2026: ASP-DAC.
-        - **Opportunities and Challenges of Hardware Formal Verification in the Era of Large Language Models** [📄](files/ict_ac_summer_school_202507.pdf)  
-          07/2025: *LLM4xPU* Summer School, State Key Lab of Processors, ICT, CAS.
+        - **From Generation to Verified Synthesis: Bridging Industrial Reality via C-Guided Agents**[📄](files/From_Generation_to_Verified_Synthesis.pdf)  
+          01/2026: (Designer Forum 1) Toward Autonomous Chip Design: From Foundation Models to AgenticEDA, ASP-DAC26
         - **Applications and Prospects of Formal Methods in Hardware Verification Tools** [📄](files/ict_is_youth_202508.pdf) [🎬](https://www.bilibili.com/video/BV19NePzNEus?buvid=XU9CB8E97888E6317C8C629982ABDD4E78952&from_spmid=default-value&is_story_h5=false&mid=%2Bgp5S7io8OxAw1lwmhrOGA%3D%3D&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=5ae10524-3e8d-4159-a3dd-8cc7f3c6c1e2&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1755747203&unique_k=Z6McQfX&up_id=36888575&vd_source=de3e205d459754fb14d7c47bd6cf0433&p=9&spm_id_from=333.788.videopod.episodes)  
           08/2025: 2025 CCF Formal Methods Committee Youth Academic Forum — Symposium on the Application of Formal Methods in Foundational Software / IS, CAS.
+        - **Opportunities and Challenges of Hardware Formal Verification in the Era of Large Language Models** [📄](files/ict_ac_summer_school_202507.pdf)  
+          07/2025: *LLM4xPU* Summer School, State Key Lab of Processors, ICT, CAS.
+
 
   - block: markdown
     id: publications
@@ -86,14 +86,14 @@ sections:
       title: Publications 
       subtitle: ''
       text: |
-        - <span class="pub-badge pub-badge--iclr">ICLR</span> **Reasoning Scaffolding: Distilling the Flow of Thought from LLMs**
-
-          Xiangyu Wen, Junhua Huang, Zeju Li, **Min Li**, Jianyuan Zhong, Zhijian Xu, Mingxuan Yuan, Yongxiang Huang, Qiang Xu
-          
-          International Conference on Learning Representations, (**ICLR**), 2026.
-        - <span class="pub-badge pub-badge--neurips">NeurIPS</span> **Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding**  
+        - <span class="pub-badge pub-badge--preprint">preprint</span>[**EquivFusion: Unifying Hardware Equivalence Checkingfrom Algorithms to Netlists via MLIR**](files/EquivFusion_FSE2026.pdf)  
+          Jiaying Zhu, Baoqi Zhang, Kezhi Li, Hao Yan, Qiang Xu, **Min Li**  
+        - <span class="pub-badge pub-badge--iclr">ICLR</span>[**Reasoning Scaffolding: Distilling the Flow of Thought from LLMs**](https://arxiv.org/abs/2509.23619)  
+          Xiangyu Wen, Junhua Huang, Zeju Li, **Min Li**, Jianyuan Zhong, Zhijian Xu, Mingxuan Yuan, Yongxiang Huang, Qiang Xu  
+          International Conference on Learning Representations, 2026.
+        - <span class="pub-badge pub-badge--neurips">NeurIPS</span>[**Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding**](https://openreview.net/forum?id=DlkM0q4Cvk)  
           Xiangyu Wen, **Min Li**, Junhua Huang, Jianyuan Zhong, Zhijian Xu, Zeju Li, Yongxiang Huang, Mingxuan Yuan, Qiang Xu  
-          Conference on Neural Information Processing Systems, (**NeurIPS**), 2025.
+          Conference on Neural Information Processing Systems, 2025.
 
 
   - block: contact
