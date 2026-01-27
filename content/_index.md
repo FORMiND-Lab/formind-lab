@@ -68,7 +68,7 @@ sections:
       title: Tools
       subtitle: ''
       text: | 
-        - [**EquivFusion**](https://github.com/FORMiND-Lab/EquivFusion) aims to unify equivalence checking from algorithms to netlists for efficient sign‑off. The project is built on [circt](https://github.com/llvm/circt) and is still in an early development stage, and we welcome feedback and collaboration as it continues to evolve.
+        - [**EquivFusion**](https://github.com/FORMiND-Lab/EquivFusion) aims to unify equivalence checking from algorithms to netlists for efficient sign‑off. The project is built on [CIRCT](https://github.com/llvm/circt) and is still in an early development stage, and we welcome feedback and collaboration as it continues to evolve.
 
   - block: markdown
     id: talks
