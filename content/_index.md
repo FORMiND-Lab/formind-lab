@@ -28,8 +28,6 @@ sections:
       text: |
         **Jan. 2026**: 🎉Our paper “Reasoning Scaffolding: Distilling the Flow of Thought from LLMs” has been accepted to ICLR 2026. We officially launched a collaboration with the HiSilicon Formal Verification Group, aiming to develop efficient word-level solvers and a bug-hunting framework for multi-property hardware verification. We are also delighted to welcome **Shenghu Han**, **Yusen Mo**, **Yiting Yang** and **Zixiang Fu**, who will join the FORMiND Lab in Fall 2026. In addition, we have three openings for Master’s candidates in 2026, and interested students are warmly encouraged to contact us via email.
 
-        **Jan. 2026**: 🎉Our paper “Reasoning Scaffolding: Distilling the Flow of Thought from LLMs” has been accepted to ICLR 2026. We are delighted to welcome , who will join the FORMiND Lab formally in Fall 2026. We also have three openings for Master’s candidates in 2026. Interested students are warmly encouraged to reach out to us via email.
-
         **Dec. 2025**: We have open‑sourced **EquivFusion**, a verification toolchain built on CIRCT. The main contributors are Mengxia, Baoqi, Jiaying and Min. 
 
         **Sept. 2025**:  🎉One paper (Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding) has been accepted by NeurIPS 2025. Congrats to Xiangyu Wen, our awesome intern at Huawei (co-supervised by Junhua and me).
