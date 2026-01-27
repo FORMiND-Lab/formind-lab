@@ -26,7 +26,7 @@ sections:
       title: News
       subtitle: ''
       text: |
-        **Jan. 2026**: 🎉1xICLR and 1xTCAD. We officially launched a collaboration with the HiSilicon Formal Verification Group, aiming to develop efficient word-level solvers and a bug-hunting framework for multi-property hardware verification. We are also delighted to welcome **Shenghu Han**, **Yusen Mo**, **Yiting Yang** and **Zixiang Fu**, who will join the FORMiND Lab in Fall 2026. In addition, we have three openings for Master’s candidates in 2026, and interested students are warmly encouraged to contact us via email.
+        **Jan. 2026**: 🎉1x**ICLR** and 1x**TCAD**, many thanks for all co-authors. We officially launched a collaboration with the HiSilicon Formal Verification Group, aiming to develop efficient word-level solvers and a bug-hunting framework for multi-property hardware verification. We are also delighted to welcome **Shenghu Han**, **Yusen Mo**, **Yiting Yang** and **Zixiang Fu**, who will join the FORMiND Lab in Fall 2026. In addition, we have three openings for Master’s candidates in 2026, and interested students are warmly encouraged to contact us via email.
 
         **Dec. 2025**: We have open‑sourced **EquivFusion**, a verification toolchain built on CIRCT. The main contributors are Mengxia, Baoqi, Jiaying and Min. 
 
