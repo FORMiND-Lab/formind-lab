@@ -72,7 +72,7 @@ sections:
       title: Talks
       subtitle: ''
       text: |
-        -**(Designer Forum 1) TowardAutonomous Chip Design: FromFoundation Models to AgenticEDA**[📄](files/From_Generation_to_Verified_Synthesis.pdf)
+        - **(Designer Forum 1) TowardAutonomous Chip Design: FromFoundation Models to AgenticEDA**[📄](files/From_Generation_to_Verified_Synthesis.pdf)
           01/2026: ASP-DAC
         - **Opportunities and Challenges of Hardware Formal Verification in the Era of Large Language Models** [📄](files/ict_ac_summer_school_202507.pdf)  
           07/2025: *LLM4xPU* Summer School, State Key Lab of Processors, ICT, CAS.
