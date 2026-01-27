@@ -26,7 +26,7 @@ sections:
       title: News
       subtitle: ''
       text: |
-        **Jan. 2026**: 🎉Our paper “Reasoning Scaffolding: Distilling the Flow of Thought from LLMs” has been accepted to ICLR 2026. We officially launched a collaboration with the HiSilicon Formal Verification Group, aiming to develop efficient word-level solvers and a bug-hunting framework for multi-property hardware verification. We are also delighted to welcome **Shenghu Han**, **Yusen Mo**, **Yiting Yang** and **Zixiang Fu**, who will join the FORMiND Lab in Fall 2026. In addition, we have three openings for Master’s candidates in 2026, and interested students are warmly encouraged to contact us via email.
+        **Jan. 2026**: 🎉1xICLR and 1xTCAD. We officially launched a collaboration with the HiSilicon Formal Verification Group, aiming to develop efficient word-level solvers and a bug-hunting framework for multi-property hardware verification. We are also delighted to welcome **Shenghu Han**, **Yusen Mo**, **Yiting Yang** and **Zixiang Fu**, who will join the FORMiND Lab in Fall 2026. In addition, we have three openings for Master’s candidates in 2026, and interested students are warmly encouraged to contact us via email.
 
         **Dec. 2025**: We have open‑sourced **EquivFusion**, a verification toolchain built on CIRCT. The main contributors are Mengxia, Baoqi, Jiaying and Min. 
 
@@ -90,6 +90,9 @@ sections:
       text: |
         - <span class="pub-badge pub-badge--preprint">preprint</span>**EquivFusion: Unifying Hardware Equivalence Checkingfrom Algorithms to Netlists via MLIR** [📄](files/EquivFusion_FSE2026.pdf)  
           Jiaying Zhu, Baoqi Zhang, Kezhi Li, Hao Yan, Qiang Xu, **Min Li**  
+        - <span class="pub-badge pub-badge--tcad">TCAD</span>From Contrastive to Generative Alignment: Large-Scale Hierarchical Multi-Modal Pre-training for Hotspot Detection
+          Xinyun Zhang, Yuyang Chen, Yiwen Wu, Su Zheng, Ran Chen, **Min Li**, Hao Geng, Binwu Zhu, Mingxuan Yuan, Bei Yu
+          IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2026.
         - <span class="pub-badge pub-badge--iclr">ICLR</span>**Reasoning Scaffolding: Distilling the Flow of Thought from LLMs** [🔗](https://arxiv.org/abs/2509.23619)  
           Xiangyu Wen, Junhua Huang, Zeju Li, **Min Li**, Jianyuan Zhong, Zhijian Xu, Mingxuan Yuan, Yongxiang Huang, Qiang Xu  
           International Conference on Learning Representations, 2026.
