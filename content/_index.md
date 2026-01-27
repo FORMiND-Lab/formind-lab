@@ -86,12 +86,12 @@ sections:
       title: Publications 
       subtitle: ''
       text: |
-        - <span class="pub-badge pub-badge--preprint">preprint</span>[**EquivFusion: Unifying Hardware Equivalence Checkingfrom Algorithms to Netlists via MLIR**](files/EquivFusion_FSE2026.pdf)  
+        - <span class="pub-badge pub-badge--preprint">preprint</span>**EquivFusion: Unifying Hardware Equivalence Checkingfrom Algorithms to Netlists via MLIR**[📄](files/EquivFusion_FSE2026.pdf)  
           Jiaying Zhu, Baoqi Zhang, Kezhi Li, Hao Yan, Qiang Xu, **Min Li**  
-        - <span class="pub-badge pub-badge--iclr">ICLR</span>[**Reasoning Scaffolding: Distilling the Flow of Thought from LLMs**](https://arxiv.org/abs/2509.23619)  
+        - <span class="pub-badge pub-badge--iclr">ICLR</span>**Reasoning Scaffolding: Distilling the Flow of Thought from LLMs**[🔗](https://arxiv.org/abs/2509.23619)  
           Xiangyu Wen, Junhua Huang, Zeju Li, **Min Li**, Jianyuan Zhong, Zhijian Xu, Mingxuan Yuan, Yongxiang Huang, Qiang Xu  
           International Conference on Learning Representations, 2026.
-        - <span class="pub-badge pub-badge--neurips">NeurIPS</span>[**Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding**](https://openreview.net/forum?id=DlkM0q4Cvk)  
+        - <span class="pub-badge pub-badge--neurips">NeurIPS</span>**Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding**[🔗](https://openreview.net/forum?id=DlkM0q4Cvk)  
           Xiangyu Wen, **Min Li**, Junhua Huang, Jianyuan Zhong, Zhijian Xu, Zeju Li, Yongxiang Huang, Mingxuan Yuan, Qiang Xu  
           Conference on Neural Information Processing Systems, 2025.
 
