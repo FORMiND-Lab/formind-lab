@@ -74,11 +74,11 @@ sections:
       title: Talks
       subtitle: ''
       text: |
-        - **From Generation to Verified Synthesis: Bridging Industrial Reality via C-Guided Agents** [📄](files/From_Generation_to_Verified_Synthesis.pdf)  
-          01/2026: (Designer Forum 1) Toward Autonomous Chip Design: From Foundation Models to AgenticEDA, ASP-DAC26
-        - **Applications and Prospects of Formal Methods in Hardware Verification Tools** [📄](files/ict_is_youth_202508.pdf) [🎬](https://www.bilibili.com/video/BV19NePzNEus?buvid=XU9CB8E97888E6317C8C629982ABDD4E78952&from_spmid=default-value&is_story_h5=false&mid=%2Bgp5S7io8OxAw1lwmhrOGA%3D%3D&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=5ae10524-3e8d-4159-a3dd-8cc7f3c6c1e2&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1755747203&unique_k=Z6McQfX&up_id=36888575&vd_source=de3e205d459754fb14d7c47bd6cf0433&p=9&spm_id_from=333.788.videopod.episodes)  
+        - **From Generation to Verified Synthesis: Bridging Industrial Reality via C-Guided Agents** [📄](files/talks/From_Generation_to_Verified_Synthesis.pdf)  
+          01/2026: (Designer Forum 1) Toward Autonomous Chip Design: From Foundation Models to AgenticEDA, ASP-DAC26.
+        - **Applications and Prospects of Formal Methods in Hardware Verification Tools** [📄](files/talks/ict_is_youth_202508.pdf) [🎬](https://www.bilibili.com/video/BV19NePzNEus?buvid=XU9CB8E97888E6317C8C629982ABDD4E78952&from_spmid=default-value&is_story_h5=false&mid=%2Bgp5S7io8OxAw1lwmhrOGA%3D%3D&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=5ae10524-3e8d-4159-a3dd-8cc7f3c6c1e2&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1755747203&unique_k=Z6McQfX&up_id=36888575&vd_source=de3e205d459754fb14d7c47bd6cf0433&p=9&spm_id_from=333.788.videopod.episodes)  
           08/2025: 2025 CCF Formal Methods Committee Youth Academic Forum — Symposium on the Application of Formal Methods in Foundational Software / IS, CAS.
-        - **Opportunities and Challenges of Hardware Formal Verification in the Era of Large Language Models** [📄](files/ict_ac_summer_school_202507.pdf)  
+        - **Opportunities and Challenges of Hardware Formal Verification in the Era of Large Language Models** [📄](files/talks/ict_ac_summer_school_202507.pdf)  
           07/2025: *LLM4xPU* Summer School, State Key Lab of Processors, ICT, CAS.
 
 
@@ -94,10 +94,10 @@ sections:
         - <span class="pub-badge pub-badge--tcad">TCAD</span>**From Contrastive to Generative Alignment: Large-Scale Hierarchical Multi-Modal Pre-training for Hotspot Detection**  
           Xinyun Zhang, Yuyang Chen, Yiwen Wu, Su Zheng, Ran Chen, **Min Li**, Hao Geng, Binwu Zhu, Mingxuan Yuan, Bei Yu  
           IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2026.
-        - <span class="pub-badge pub-badge--iclr">ICLR</span>**Reasoning Scaffolding: Distilling the Flow of Thought from LLMs** [🔗](https://arxiv.org/abs/2509.23619)  
+        - <span class="pub-badge pub-badge--iclr">ICLR</span>**Reasoning Scaffolding: Distilling the Flow of Thought from LLMs** [🔗](https://arxiv.org/abs/2509.23619)[📄](files/papers/2509.23619v2.pdf)  
           Xiangyu Wen, Junhua Huang, Zeju Li, **Min Li**, Jianyuan Zhong, Zhijian Xu, Mingxuan Yuan, Yongxiang Huang, Qiang Xu  
           International Conference on Learning Representations, 2026.
-        - <span class="pub-badge pub-badge--neurips">NeurIPS</span>**Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding** [🔗](https://openreview.net/forum?id=DlkM0q4Cvk)  
+        - <span class="pub-badge pub-badge--neurips">NeurIPS</span>**Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding** [🔗](https://openreview.net/forum?id=DlkM0q4Cvk)[📄](files/papers/12159_Dependency_Matters_Enhan.pdf)  
           Xiangyu Wen, **Min Li**, Junhua Huang, Jianyuan Zhong, Zhijian Xu, Zeju Li, Yongxiang Huang, Mingxuan Yuan, Qiang Xu  
           Conference on Neural Information Processing Systems, 2025.
 
