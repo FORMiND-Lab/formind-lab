@@ -88,7 +88,7 @@ sections:
       title: Publications 
       subtitle: ''
       text: |
-        - <span class="pub-badge pub-badge--preprint">preprint</span>**EquivFusion: Unifying Hardware Equivalence Checking from Algorithms to Netlists via MLIR** [📄](files/EquivFusion_FSE2026.pdf)  
+        - <span class="pub-badge pub-badge--preprint">preprint</span>**EquivFusion: Unifying Hardware Equivalence Checking from Algorithms to Netlists via MLIR** [📄](files/papers/EquivFusion_FSE2026.pdf)  
           Jiaying Zhu, Baoqi Zhang, Kezhi Li, Hao Yan, Qiang Xu, **Min Li**  
           In submission to ACM International Conference on the Foundations of Software Engineering - Tool Demonstrations Track, 2026.
         - <span class="pub-badge pub-badge--tcad">TCAD</span>**From Contrastive to Generative Alignment: Large-Scale Hierarchical Multi-Modal Pre-training for Hotspot Detection**  
