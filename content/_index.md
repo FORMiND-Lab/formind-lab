@@ -11,7 +11,7 @@ sections:
       title: |
         Introduction 
       image:
-        filename: new_logo.PNG
+        filename: new_logo.png
       text: |
         <br>
 
