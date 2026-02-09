@@ -11,7 +11,7 @@ sections:
       title: |
         Introduction 
       image:
-        filename: formind_logo.PNG
+        filename: new_logo.PNG
       text: |
         <br>
 
