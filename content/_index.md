@@ -89,7 +89,7 @@ sections:
       title: Publications 
       subtitle: ''
       text: |
-        - <span class="pub-badge pub-badge--preprint">preprint</span>**FormalRTL: Verified RTL Synthesis at Scale**[📄](files/papers/FormalRTL.pdf)
+        - <span class="pub-badge pub-badge--preprint">preprint</span>**FormalRTL: Verified RTL Synthesis at Scale**[📄](files/papers/FormalRTL.pdf)  
           Kezhi Li, **Min Li**, Xiangyu Wen, Shibo Zhao, Jieying Wu, Junhua Huang, Qiang Xu
         - <span class="pub-badge pub-badge--preprint">preprint</span>**EquivFusion: Unifying Hardware Equivalence Checking from Algorithms to Netlists via MLIR** [📄](files/papers/EquivFusion_FSE2026.pdf)  
           Jiaying Zhu, Baoqi Zhang, Kezhi Li, Hao Yan, Qiang Xu, **Min Li**  
