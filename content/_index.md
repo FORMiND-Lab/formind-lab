@@ -66,8 +66,8 @@ sections:
       title: Tools
       subtitle: ''
       text: | 
+        - [**Multiplier Benchmark**](https://github.com/FORMiND-Lab/Multiplier-Benchmark) contains a comprehensive collection of arithmetic multiplier benchmarks in AIG (And-Inverter Graph) format. These benchmarks are designed for evaluating logic synthesis, formal verification, and arithmetic circuit optimization algorithms. This benchmark is maintained by [Kezhi Li](https://littleblackcq.github.io/) from CURE Lab and CUHK.      
         - [**EquivFusion**](https://github.com/FORMiND-Lab/EquivFusion) aims to unify equivalence checking from algorithms to netlists for efficient sign‑off. The project is built on [CIRCT](https://github.com/llvm/circt) and is still in an early development stage, and we welcome feedback and collaboration as it continues to evolve.
-        - [**Multiplier Benchmark**](https://github.com/FORMiND-Lab/Multiplier-Benchmark) contains a comprehensive collection of arithmetic multiplier benchmarks in AIG (And-Inverter Graph) format. These benchmarks are designed for evaluating logic synthesis, formal verification, and arithmetic circuit optimization algorithms. This benchmark is maintained by [Kezhi Li](https://littleblackcq.github.io/) from CURE Lab and CUHK.
 
   - block: markdown
     id: talks
