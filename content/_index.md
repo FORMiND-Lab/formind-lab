@@ -91,9 +91,9 @@ sections:
       text: |
         - <span class="pub-badge pub-badge--preprint">preprint</span>**FormalRTL: Verified RTL Synthesis at Scale**[🔗](https://arxiv.org/pdf/2603.08738)[📄](files/papers/FormalRTL.pdf)  
           Kezhi Li, **Min Li**, Xiangyu Wen, Shibo Zhao, Jieying Wu, Junhua Huang, Qiang Xu
-        - <span class="pub-badge pub-badge--preprint">preprint</span>**EquivFusion: Unifying Hardware Equivalence Checking from Algorithms to Netlists via MLIR** [📄](files/papers/EquivFusion_FSE2026.pdf)  
+        - <span class="pub-badge pub-badge--fse">FSE-TD</span>**EquivFusion: Unifying Hardware Equivalence Checking from Algorithms to Netlists via MLIR** [📄](files/papers/EquivFusion_FSE2026.pdf)  
           Jiaying Zhu, Baoqi Zhang, Kezhi Li, Hao Yan, Qiang Xu, **Min Li**  
-          In submission to ACM International Conference on the Foundations of Software Engineering - Tool Demonstrations Track, 2026.
+          ACM International Conference on the Foundations of Software Engineering - Tool Demonstrations Track, 2026.
         - <span class="pub-badge pub-badge--tcad">TCAD</span>**From Contrastive to Generative Alignment: Large-Scale Hierarchical Multi-Modal Pre-training for Hotspot Detection**  
           Xinyun Zhang, Yuyang Chen, Yiwen Wu, Su Zheng, Ran Chen, **Min Li**, Hao Geng, Binwu Zhu, Mingxuan Yuan, Bei Yu  
           IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2026.
