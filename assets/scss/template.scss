@@ -13,26 +13,31 @@
 
 /* Publication badge styles (added) */
 .pub-badge {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
-  font-size: 15px;
+  font-size: 11px;
   font-weight: 800;
   color: #fff;
-  padding: 6px 10px;
-  border-radius: 8px;
-  margin-right: 10px;
-  vertical-align: middle;
+  line-height: 1;
+  padding: 5px 10px;
+  min-width: 108px;
+  border-radius: 999px;
+  margin-right: 0;
+  vertical-align: top;
   text-transform: none;
-  letter-spacing: 0.6px;
+  letter-spacing: 0.4px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.06);
   border: 1px solid rgba(0,0,0,0.06);
   transition: transform 120ms ease, box-shadow 120ms ease;
+  white-space: nowrap;
 }
 .pub-badge:hover {
   transform: translateY(-2px);
   box-shadow: 0 6px 18px rgba(0,0,0,0.08);
 }
-.pub-badge--iclr { background: #2b90d9; text-transform: uppercase; }
+.pub-badge--iclr { background: #2b90d9; }
 .pub-badge--neurips { background: #f39c12; }
 .pub-badge--preprint {
   background: #e9e9e9;
@@ -40,10 +45,46 @@
   border: 1px solid #d6d6d6;
   box-shadow: none;
 }
-.pub-badge--tcad { background: #6c4eb6; /* professional deep purple */ text-transform: uppercase; color: #fff; /* white text for contrast */ }
-.pub-badge--fse { background: #2bcd2e; /*  */ text-transform: uppercase; color: #fff; /* white text for contrast */ }
+.pub-badge--tcad { background: #6c4eb6; /* professional deep purple */ color: #fff; /* white text for contrast */ }
+.pub-badge--fse { background: #2bcd2e; /*  */ color: #fff; /* white text for contrast */ }
 
 
-/* small adjustments for list items */
-.publications li { margin-bottom: 0.8rem; }
+/* Selected publications: fixed badge column + hanging indent */
+#publications ul,
+section#publications ul {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
 
+#publications li,
+section#publications li {
+  position: relative;
+  margin-bottom: 1.25rem;
+  padding-left: 148px;
+}
+
+#publications li::marker,
+section#publications li::marker {
+  content: "";
+}
+
+#publications li > .pub-badge,
+section#publications li > .pub-badge {
+  position: absolute;
+  top: 0.2rem;
+  left: 0;
+}
+
+@media (max-width: 640px) {
+  .pub-badge {
+    min-width: 92px;
+    font-size: 10px;
+    padding: 4px 8px;
+  }
+
+  #publications li,
+  section#publications li {
+    padding-left: 118px;
+  }
+}
