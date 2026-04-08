@@ -91,18 +91,18 @@ sections:
       title: Selected Publications 
       subtitle: ''
       text: |
-        - <span class="pub-badge pub-badge--preprint">Preprint '26</span>**FormalRTL: Verified RTL Synthesis at Scale**[🔗](https://arxiv.org/pdf/2603.08738)[📄](files/papers/FormalRTL.pdf)  
+        - <span class="pub-badge pub-badge--preprint">Preprint'26</span>**FormalRTL: Verified RTL Synthesis at Scale**[🔗](https://arxiv.org/pdf/2603.08738)[📄](files/papers/FormalRTL.pdf)  
           Kezhi Li, **Min Li**, Xiangyu Wen, Shibo Zhao, Jieying Wu, Junhua Huang, Qiang Xu
-        - <span class="pub-badge pub-badge--fse">FSE-TD '26</span>**EquivFusion: Unifying Hardware Equivalence Checking from Algorithms to Netlists via MLIR** [📄](files/papers/EquivFusion_FSE2026.pdf)  
+        - <span class="pub-badge pub-badge--fse">FSE-TD'26</span>**EquivFusion: Unifying Hardware Equivalence Checking from Algorithms to Netlists via MLIR** [📄](files/papers/EquivFusion_FSE2026.pdf)  
           Jiaying Zhu, Baoqi Zhang, Mengxiao Tao, Kezhi Li, Hao Yan, Qiang Xu, **Min Li**  
           ACM International Conference on the Foundations of Software Engineering - Tool Demonstrations Track (CCF-A), 2026.
-        - <span class="pub-badge pub-badge--tcad">TCAD '26</span>**From Contrastive to Generative Alignment: Large-Scale Hierarchical Multi-Modal Pre-training for Hotspot Detection**  
+        - <span class="pub-badge pub-badge--tcad">TCAD'26</span>**From Contrastive to Generative Alignment: Large-Scale Hierarchical Multi-Modal Pre-training for Hotspot Detection**  
           Xinyun Zhang, Yuyang Chen, Yiwen Wu, Su Zheng, Ran Chen, **Min Li**, Hao Geng, Binwu Zhu, Mingxuan Yuan, Bei Yu  
           IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (CCF-A), 2026.
-        - <span class="pub-badge pub-badge--iclr">ICLR '26</span>**Reasoning Scaffolding: Distilling the Flow of Thought from LLMs** [🔗](https://arxiv.org/abs/2509.23619)[📄](files/papers/2509.23619v2.pdf)  
+        - <span class="pub-badge pub-badge--iclr">ICLR'26</span>**Reasoning Scaffolding: Distilling the Flow of Thought from LLMs** [🔗](https://arxiv.org/abs/2509.23619)[📄](files/papers/2509.23619v2.pdf)  
           Xiangyu Wen, Junhua Huang, Zeju Li, **Min Li**, Jianyuan Zhong, Zhijian Xu, Mingxuan Yuan, Yongxiang Huang, Qiang Xu  
           International Conference on Learning Representations (CCF-A), 2026.
-        - <span class="pub-badge pub-badge--neurips">NeurIPS '25</span>**Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding** [🔗](https://openreview.net/forum?id=DlkM0q4Cvk)[📄](files/papers/12159_Dependency_Matters_Enhan.pdf)  
+        - <span class="pub-badge pub-badge--neurips">NeurIPS'25</span>**Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding** [🔗](https://openreview.net/forum?id=DlkM0q4Cvk)[📄](files/papers/12159_Dependency_Matters_Enhan.pdf)  
           Xiangyu Wen, **Min Li**, Junhua Huang, Jianyuan Zhong, Zhijian Xu, Zeju Li, Yongxiang Huang, Mingxuan Yuan, Qiang Xu  
           Conference on Neural Information Processing Systems (CCF-A), 2025.
 

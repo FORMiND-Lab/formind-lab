@@ -17,13 +17,13 @@
   align-items: center;
   justify-content: center;
   font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 800;
   color: #fff;
   line-height: 1;
-  padding: 5px 10px;
+  padding: 6px 11px;
   min-width: 108px;
-  border-radius: 999px;
+  border-radius: 10px;
   margin-right: 0;
   vertical-align: top;
   text-transform: none;
@@ -79,8 +79,8 @@ section#publications li > .pub-badge {
 @media (max-width: 640px) {
   .pub-badge {
     min-width: 92px;
-    font-size: 10px;
-    padding: 4px 8px;
+    font-size: 11px;
+    padding: 5px 9px;
   }
 
   #publications li,
