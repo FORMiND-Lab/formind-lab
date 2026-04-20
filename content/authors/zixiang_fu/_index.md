@@ -55,7 +55,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - UnderGrad Students
+  - Undergraduate Students
 ---
 
 Zixiang Fu is a senior undergraduate student majoring in Electronic Science and Technology at Southeast University. Next year, he will join the FORMiND Lab as a Master's student.

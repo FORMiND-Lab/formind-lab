@@ -57,7 +57,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Graduate Students
 ---
 
 Jieying Wu is a recent graduate from Southeast University and will commence Master’s studies at the School of Integrated Circuits, Southeast University, under the supervision of Prof. Min Li starting in Fall 2025.

@@ -56,7 +56,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Graduate Students
 ---
 
 ShiBo Zhao is a recent graduate from the School of Integrated Circuit Science and Engineering at the University of Electronic Science and Technology of China. I will pursue my Master's degree at the School of Integrated Circuits, Southeast University, starting in Fall 2025, under the supervision of Prof. Min Li.

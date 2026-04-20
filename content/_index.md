@@ -49,8 +49,8 @@ sections:
       user_groups:
           - Faculty
           - Students
-          - Grad Students
-          - UnderGrad Students
+          - Graduate Students
+          - Undergraduate Students
           - Visitors
           - Alumni
           # - Super-Supervisor

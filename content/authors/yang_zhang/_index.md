@@ -58,7 +58,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Graduate Students
 ---
 
 Yang Zhang is a recent graduate from the School of Electronic Science and Technology at Nanjing University of Posts and Telecommunications and will commence Master’s studies at the School of Integrated Circuits, Southeast University in Fall 2025, under the supervision of Professor Min Li.

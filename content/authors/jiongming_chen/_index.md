@@ -56,7 +56,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Graduate Students
 ---
 
 Jiongming Chen is a recent graduate of the School of Electrical and Electronic Engineering, Wenzhou University. He will be pursuing a master’s degree at the School of Integrated Circuit, Southeast University, starting in Fall 2025, under the supervision of Professor Min Li.
