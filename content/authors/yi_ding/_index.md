@@ -58,7 +58,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
+  - UnderGrad Students
 ---
 
 Yi Ding is currently a sophomore student at the College of Integrated Circuit, Southeast University. He is determined to conduct research in the fields of formal hardware verification and AI for EDA/Design under the supervision of Professor Li Min.

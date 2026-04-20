@@ -59,7 +59,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
+  - UnderGrad Students
 ---
 
 Shenghu han is a senior undergraduate student majoring in Electronic Science and Technology at Southeast University. He will be joining the FORMiND lab as a Ph.D. student in the next year.

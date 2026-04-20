@@ -56,7 +56,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
+  - UnderGrad Students
 ---
 
 Yiting Yang is a senior undergraduate student at the School of Microelectronics at the Hefei University of Technology. She will be joining the FORMiND Lab to pursue her Master's degree next year.
