@@ -1,14 +1,14 @@
 ---
 # Display name
-title: DING, Yi 丁一
+title: MING, Zihan 明子涵
 
 # Full name (for SEO)
-first_name: Yi
-last_name: d_Ding
+first_name: Zihan
+last_name: c_Ming
 
 # Username (this should match the folder name)
 authors:
-  - yi_ding
+  - zihan_ming
 
 # Is this the primary user of the site?
 superuser: false
@@ -27,12 +27,12 @@ bio: ''
 interests:
   - Hardware Formal Verification
   - Artificial Intelligence
-  - Be an organizer
+  - Walking
 
 education:
   courses:
-    - course: Undergraduate Student at the School of Integrated Circuits
-      institution: Southeast University
+    - course: Undergraduate Student in Integrated Circuit Design and Integrated Systems
+      institution: Anhui University
       year: In Progress
 
 # Social/Academic Networking
@@ -42,10 +42,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:yi.ding@seu.edu.cn'
+    link: 'mailto:zihanming895@gmail.com'
   - icon: github
     icon_pack: fab
-    link: https://github.com/DY-Davis
+    link: https://github.com/xiaoming054
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,4 +61,4 @@ user_groups:
   - Undergraduate Students
 ---
 
-Yi Ding is currently a sophomore student at the College of Integrated Circuit, Southeast University. He is determined to conduct research in the fields of formal hardware verification and AI for EDA/Design under the supervision of Professor Li Min.
+Zihan Ming is a senior undergraduate student at the School of Integrated Circuits at Anhui University. She will be joining the FORMiND Lab to pursue her Master's degree in this September.

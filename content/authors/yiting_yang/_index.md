@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: RA - 2025, School of Integrated Circuit
+role: RA - 2026, School of Integrated Circuit
 
 # Organizations/Affiliations
 organizations:
@@ -59,4 +59,4 @@ user_groups:
   - Undergraduate Students
 ---
 
-Yiting Yang is a senior undergraduate student at the School of Microelectronics at the Hefei University of Technology. She will be joining the FORMiND Lab to pursue her Master's degree next year.
+Yiting Yang is a senior undergraduate student at the School of Microelectronics at the Hefei University of Technology. She will be joining the FORMiND Lab to pursue her Master's degree in this September.

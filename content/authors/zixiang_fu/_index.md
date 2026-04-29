@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: RA - 2025, School of Integrated Circuit
+role: RA - 2026, School of Integrated Circuit
 
 # Organizations/Affiliations
 organizations:
@@ -58,4 +58,4 @@ user_groups:
   - Undergraduate Students
 ---
 
-Zixiang Fu is a senior undergraduate student majoring in Electronic Science and Technology at Southeast University. Next year, he will join the FORMiND Lab as a Master's student.
+Zixiang Fu is a senior undergraduate student majoring in Electronic Science and Technology at Southeast University. In this September, he will join the FORMiND Lab as a Master's student.

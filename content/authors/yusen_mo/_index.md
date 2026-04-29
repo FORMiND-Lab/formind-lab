@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: RA - 2025, School of Integrated Circuit
+role: RA - 2026, School of Integrated Circuit
 
 # Organizations/Affiliations
 organizations:
@@ -59,4 +59,4 @@ user_groups:
   - Undergraduate Students
 ---
 
-Yusen Mo is a senior undergraduate student majoring in Electronic Science and Technology at Southeast University. He will be joining the FORMiND lab as a Ph.D. student in the next year.
+Yusen Mo is a senior undergraduate student majoring in Electronic Science and Technology at Southeast University. He will be joining the FORMiND lab as a Ph.D. student in this September.

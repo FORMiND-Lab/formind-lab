@@ -1,14 +1,14 @@
 ---
 # Display name
-title: DING, Yi 丁一
+title: ZHANG, Huitong 张慧通
 
 # Full name (for SEO)
-first_name: Yi
-last_name: d_Ding
+first_name: Huitong
+last_name: c_Zhang
 
 # Username (this should match the folder name)
 authors:
-  - yi_ding
+  - huitong_zhang
 
 # Is this the primary user of the site?
 superuser: false
@@ -25,14 +25,16 @@ organizations:
 bio: ''
 
 interests:
-  - Hardware Formal Verification
   - Artificial Intelligence
-  - Be an organizer
+  - Mathmatics
+  - Badminton
+  - Music
+  - Watching News
 
 education:
   courses:
-    - course: Undergraduate Student at the School of Integrated Circuits
-      institution: Southeast University
+    - course: Undergraduate Student in Textiles Materials
+      institution: Donghua University
       year: In Progress
 
 # Social/Academic Networking
@@ -42,10 +44,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:yi.ding@seu.edu.cn'
+    link: 'mailto:htzseu@gmail.com'
   - icon: github
     icon_pack: fab
-    link: https://github.com/DY-Davis
+    link: https://github.com/htzseu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,4 +63,4 @@ user_groups:
   - Undergraduate Students
 ---
 
-Yi Ding is currently a sophomore student at the College of Integrated Circuit, Southeast University. He is determined to conduct research in the fields of formal hardware verification and AI for EDA/Design under the supervision of Professor Li Min.
+Zhang Huitong is about to graduate from Donghua University and will start studying for an integrated circuit engineering degree at Southeast University's Integrated Circuit Institute in September, under the guidance of Li Min.
