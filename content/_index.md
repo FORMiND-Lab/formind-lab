@@ -73,14 +73,6 @@ sections:
         - [**EquivFusion**](https://github.com/FORMiND-Lab/EquivFusion) aims to unify equivalence checking from algorithms to netlists for efficient sign‑off. The project is built on [CIRCT](https://github.com/llvm/circt) and is still in an early development stage, and we welcome feedback and collaboration as it continues to evolve.
 
   - block: markdown
-    id: resources
-    content:
-      title: Resources
-      subtitle: ''
-      text: |
-        {{< lab_resources >}}
-
-  - block: markdown
     id: talks
     content:
       title: Talks
@@ -114,6 +106,15 @@ sections:
         - <span class="pub-badge pub-badge--neurips">NeurIPS'25</span>**Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding** [🔗](https://openreview.net/forum?id=DlkM0q4Cvk)[📄](files/papers/12159_Dependency_Matters_Enhan.pdf)  
           Xiangyu Wen, **Min Li**, Junhua Huang, Jianyuan Zhong, Zhijian Xu, Zeju Li, Yongxiang Huang, Mingxuan Yuan, Qiang Xu  
           Conference on Neural Information Processing Systems (CCF-A), 2025.
+
+
+  - block: markdown
+    id: resources
+    content:
+      title: Resources
+      subtitle: ''
+      text: |
+        {{< lab_resources >}}
 
 
   - block: contact

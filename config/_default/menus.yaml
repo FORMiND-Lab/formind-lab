@@ -16,15 +16,15 @@ main:
   - name: Tools 
     url: /#tools
     weight: 40
-  - name: Resources
-    url: /#resources
-    weight: 45
   - name: Talks 
     url: /#talks
     weight: 50
   - name: Publications 
     url: /#publications
     weight: 60
+  - name: Resources
+    url: /#resources
+    weight: 65
   - name: Contact
     url: /#contact
     weight: 70
