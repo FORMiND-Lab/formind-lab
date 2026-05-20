@@ -8,13 +8,13 @@ hardware:
   description: Our workstation supports hardware formal verification, AI4EDA experiments, large-scale benchmark processing, and FPGA-accelerated prototyping.
   items:
     - category: CPU
-      description: AMD Ryzen Threadripper PRO 9985WX
+      description: AMD Ryzen Threadripper PRO 9985WX (64 Cores, 128 Threads)
     - category: Memory
-      description: G.SKILL DDR5 RDIMM 6400, 48 GB x 8, 384 GB total
+      description: DDR5 RDIMM 6400, 48 GB x 8, 384 GB in total
     - category: Storage
-      description: Samsung 9100 PRO 4 TB PCIe 5.0 NVMe SSD, plus 12 TB SATA storage and 4 TB SSD project storage
+      description: 2* Samsung 9100 PRO 4 TB PCIe 5.0 NVMe SSD, plus 12 TB SATA storage
     - category: Accelerators
-      description: NVIDIA GeForce RTX 5090 32 GB; NVIDIA RTX PRO 6000; AMD/Xilinx Alveo VCK5000
+      description: 1)NVIDIA GeForce RTX 5090 32GB; 2)NVIDIA RTX PRO 6000 96GB; 3)AMD/Xilinx Alveo VCK5000
 
 tools:
   title: AI & Research Productivity Tools
