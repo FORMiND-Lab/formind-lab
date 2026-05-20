@@ -1,5 +1,5 @@
 # Public lab resources shown on the homepage.
-# To add or update equipment/software, edit this file only.
+# To add or update equipment/tools, edit this file only.
 # Keep this public-facing: do not include internal paths, hostnames, usernames,
 # license servers, credentials, or operational policies.
 
@@ -9,15 +9,19 @@ hardware:
   items:
     - category: CPU
       description: AMD Ryzen Threadripper PRO 9985WX
-    - category: Cooling
-      description: 360 mm high-performance liquid cooling
-    - category: Motherboard
-      description: ASUS Pro WS WRX90E-SAGE SE
     - category: Memory
       description: G.SKILL DDR5 RDIMM 6400, 48 GB x 8, 384 GB total
     - category: Storage
       description: Samsung 9100 PRO 4 TB PCIe 5.0 NVMe SSD, plus 12 TB SATA storage and 4 TB SSD project storage
-    - category: Power & Chassis
-      description: ASUS Pro WS 2200W Platinum ATX 3.1; ASUS ProArt PA602 workstation chassis
     - category: Accelerators
       description: NVIDIA GeForce RTX 5090 32 GB; NVIDIA RTX PRO 6000; AMD/Xilinx Alveo VCK5000
+
+tools:
+  title: AI & Research Productivity Tools
+  items:
+    - category: DeepSeek API
+      description: API access for AI-assisted research, coding, and experimental workflows.
+    - category: OpenAI Plus
+      description: Access to advanced AI assistants for research ideation, writing, coding, and verification-related productivity.
+    - category: Overleaf Membership
+      description: Collaborative LaTeX writing support for papers, reports, and research documentation.

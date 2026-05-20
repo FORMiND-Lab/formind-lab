@@ -39,4 +39,22 @@
       </div>
     </div>
   {{- end }}
+
+  {{- with $resources.tools }}
+    <div class="resource-card">
+      <h3>{{ .title }}</h3>
+      <div class="resource-table-wrap">
+        <table class="resource-table">
+          <tbody>
+            {{- range .items }}
+              <tr>
+                <th>{{ .category | markdownify }}</th>
+                <td>{{ .description | markdownify }}</td>
+              </tr>
+            {{- end }}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  {{- end }}
 </div>
