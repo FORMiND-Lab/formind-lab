@@ -1,0 +1,42 @@
+{{- $resources := site.Data.resources -}}
+
+<div class="resource-grid">
+  {{- with $resources.hardware }}
+    <div class="resource-card">
+      <h3>{{ .title }}</h3>
+      {{- with .description }}
+        <p>{{ . }}</p>
+      {{- end }}
+      <div class="resource-table-wrap">
+        <table class="resource-table">
+          <tbody>
+            {{- range .items }}
+              <tr>
+                <th>{{ .category | markdownify }}</th>
+                <td>{{ .description | markdownify }}</td>
+              </tr>
+            {{- end }}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  {{- end }}
+
+  {{- with $resources.software }}
+    <div class="resource-card">
+      <h3>{{ .title }}</h3>
+      <div class="resource-table-wrap">
+        <table class="resource-table">
+          <tbody>
+            {{- range .items }}
+              <tr>
+                <th>{{ .workflow | markdownify }}</th>
+                <td>{{ .description | markdownify }}</td>
+              </tr>
+            {{- end }}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  {{- end }}
+</div>
