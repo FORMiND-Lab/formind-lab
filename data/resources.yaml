@@ -21,15 +21,3 @@ hardware:
       description: ASUS Pro WS 2200W Platinum ATX 3.1; ASUS ProArt PA602 workstation chassis
     - category: Accelerators
       description: NVIDIA GeForce RTX 5090 32 GB; NVIDIA RTX PRO 6000; AMD/Xilinx Alveo VCK5000
-
-software:
-  title: EDA Software
-  items:
-    - workflow: Simulation & Debug
-      description: "**Synopsys VCS** and **Verdi** for RTL simulation, waveform analysis, and interactive debug."
-    - workflow: Synthesis & Libraries
-      description: "**Synopsys Design Compiler** and **Library Compiler** for RTL synthesis and standard-cell library preparation flows."
-    - workflow: Static & Formal Verification
-      description: "**VC SpyGlass** (VC Static) for RTL static signoff, lint, CDC/RDC analysis, and formal-assisted static verification."
-    - workflow: Datapath Equivalence
-      description: "**HECTOR** technology for high-level C/C++ to RTL equivalence checking in datapath validation workflows."
