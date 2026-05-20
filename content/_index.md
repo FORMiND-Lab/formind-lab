@@ -89,21 +89,9 @@ sections:
                   <tr><th>Cooling</th><td>360 mm high-performance liquid cooling</td></tr>
                   <tr><th>Motherboard</th><td>ASUS Pro WS WRX90E-SAGE SE</td></tr>
                   <tr><th>Memory</th><td>G.SKILL DDR5 RDIMM 6400, 48 GB x 8, 384 GB total</td></tr>
-                  <tr><th>Storage</th><td>Samsung 9100 PRO 4 TB PCIe 5.0 NVMe SSD</td></tr>
+                  <tr><th>Storage</th><td>Samsung 9100 PRO 4 TB PCIe 5.0 NVMe SSD, plus 12 TB SATA storage and 4 TB SSD project storage</td></tr>
                   <tr><th>Power &amp; Chassis</th><td>ASUS Pro WS 2200W Platinum ATX 3.1; ASUS ProArt PA602 workstation chassis</td></tr>
                   <tr><th>Accelerators</th><td>NVIDIA GeForce RTX 5090 32 GB; NVIDIA RTX PRO 6000; AMD/Xilinx Alveo VCK5000</td></tr>
-                </tbody>
-              </table>
-            </div>
-          </div>
-
-          <div class="resource-card">
-            <h3>Storage Policy</h3>
-            <div class="resource-table-wrap">
-              <table class="resource-table">
-                <tbody>
-                  <tr><th><code>/media/data</code></th><td>12 TB SATA storage for raw datasets, raw corpora, historical archives, and large cold files that do not require frequent read/write access.</td></tr>
-                  <tr><th><code>/media/project</code></th><td>4 TB SSD storage for active project code, cleaned or preprocessed training data, and model runtime outputs such as checkpoints and logs.</td></tr>
                 </tbody>
               </table>
             </div>
@@ -121,7 +109,6 @@ sections:
                 </tbody>
               </table>
             </div>
-            <p class="resource-note">Available to authorized lab members under applicable license terms.</p>
           </div>
         </div>
 
