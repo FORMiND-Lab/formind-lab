@@ -23,7 +23,7 @@ hardware:
       description: NVIDIA GeForce RTX 5090 32 GB; NVIDIA RTX PRO 6000; AMD/Xilinx Alveo VCK5000
 
 software:
-  title: Licensed EDA Software
+  title: EDA Software
   items:
     - workflow: Simulation & Debug
       description: "**Synopsys VCS** and **Verdi** for RTL simulation, waveform analysis, and interactive debug."
