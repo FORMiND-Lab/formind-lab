@@ -48,6 +48,75 @@
 .pub-badge--tcad { background: #6c4eb6; /* professional deep purple */ color: #fff; /* white text for contrast */ }
 .pub-badge--fse { background: #2bcd2e; /*  */ color: #fff; /* white text for contrast */ }
 
+/* Resources section */
+.resource-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1rem;
+}
+
+.resource-card {
+  border: 1px solid rgba(127, 127, 127, 0.24);
+  border-radius: 8px;
+  padding: 1.25rem;
+  background: rgba(127, 127, 127, 0.04);
+}
+
+.resource-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  font-size: 1.15rem;
+}
+
+.resource-card p {
+  margin-bottom: 1rem;
+}
+
+.resource-card p:last-child {
+  margin-bottom: 0;
+}
+
+.resource-table-wrap {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+.resource-table {
+  width: 100%;
+  min-width: 560px;
+  border-collapse: collapse;
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+.resource-table th,
+.resource-table td {
+  border-top: 1px solid rgba(127, 127, 127, 0.2);
+  padding: 0.7rem 0.8rem;
+  vertical-align: top;
+}
+
+.resource-table tr:first-child th,
+.resource-table tr:first-child td {
+  border-top: 0;
+}
+
+.resource-table th {
+  width: 11rem;
+  color: inherit;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.resource-table td {
+  color: inherit;
+}
+
+.resource-note {
+  margin-top: 0.9rem;
+  color: rgba(127, 127, 127, 0.95);
+  font-size: 0.9rem;
+}
 
 /* Selected publications: fixed badge column + hanging indent */
 #publications ul,
@@ -81,6 +150,48 @@ section#publications li > .pub-badge {
     min-width: 92px;
     font-size: 11px;
     padding: 6px 9px;
+  }
+
+  .resource-card {
+    padding: 1rem;
+  }
+
+  .resource-table {
+    display: block;
+    min-width: 0;
+    font-size: 0.9rem;
+  }
+
+  .resource-table tbody,
+  .resource-table tr,
+  .resource-table th,
+  .resource-table td {
+    display: block;
+    width: 100%;
+  }
+
+  .resource-table tr {
+    border-top: 1px solid rgba(127, 127, 127, 0.2);
+    padding: 0.55rem 0;
+  }
+
+  .resource-table tr:first-child {
+    border-top: 0;
+  }
+
+  .resource-table th,
+  .resource-table td {
+    border-top: 0;
+    padding: 0.6rem;
+  }
+
+  .resource-table th {
+    white-space: normal;
+    padding-bottom: 0.2rem;
+  }
+
+  .resource-table td {
+    padding-top: 0.2rem;
   }
 
   #publications li,

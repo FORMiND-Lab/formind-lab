@@ -73,6 +73,59 @@ sections:
         - [**EquivFusion**](https://github.com/FORMiND-Lab/EquivFusion) aims to unify equivalence checking from algorithms to netlists for efficient sign‑off. The project is built on [CIRCT](https://github.com/llvm/circt) and is still in an early development stage, and we welcome feedback and collaboration as it continues to evolve.
 
   - block: markdown
+    id: resources
+    content:
+      title: Resources
+      subtitle: ''
+      text: |
+        <div class="resource-grid">
+          <div class="resource-card">
+            <h3>AI4EDA &amp; Formal Verification Workstation</h3>
+            <p>Our workstation supports hardware formal verification, AI4EDA experiments, large-scale benchmark processing, and FPGA-accelerated prototyping.</p>
+            <div class="resource-table-wrap">
+              <table class="resource-table">
+                <tbody>
+                  <tr><th>CPU</th><td>AMD Ryzen Threadripper PRO 9985WX</td></tr>
+                  <tr><th>Cooling</th><td>360 mm high-performance liquid cooling</td></tr>
+                  <tr><th>Motherboard</th><td>ASUS Pro WS WRX90E-SAGE SE</td></tr>
+                  <tr><th>Memory</th><td>G.SKILL DDR5 RDIMM 6400, 48 GB x 8, 384 GB total</td></tr>
+                  <tr><th>Storage</th><td>Samsung 9100 PRO 4 TB PCIe 5.0 NVMe SSD</td></tr>
+                  <tr><th>Power &amp; Chassis</th><td>ASUS Pro WS 2200W Platinum ATX 3.1; ASUS ProArt PA602 workstation chassis</td></tr>
+                  <tr><th>Accelerators</th><td>NVIDIA GeForce RTX 5090 32 GB; NVIDIA RTX PRO 6000; AMD/Xilinx Alveo VCK5000</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <div class="resource-card">
+            <h3>Storage Policy</h3>
+            <div class="resource-table-wrap">
+              <table class="resource-table">
+                <tbody>
+                  <tr><th><code>/media/data</code></th><td>12 TB SATA storage for raw datasets, raw corpora, historical archives, and large cold files that do not require frequent read/write access.</td></tr>
+                  <tr><th><code>/media/project</code></th><td>4 TB SSD storage for active project code, cleaned or preprocessed training data, and model runtime outputs such as checkpoints and logs.</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <div class="resource-card">
+            <h3>Licensed EDA Software</h3>
+            <div class="resource-table-wrap">
+              <table class="resource-table">
+                <tbody>
+                  <tr><th>Simulation &amp; Debug</th><td>Synopsys VCS and Verdi for RTL simulation, waveform analysis, and interactive debug.</td></tr>
+                  <tr><th>Synthesis &amp; Libraries</th><td>Synopsys Design Compiler and Library Compiler for RTL synthesis and standard-cell library preparation flows.</td></tr>
+                  <tr><th>Static &amp; Formal Verification</th><td>Synopsys SpyGlass and VC Static for RTL static checks, CDC/RDC-oriented analysis, and formal signoff support.</td></tr>
+                  <tr><th>Datapath Equivalence</th><td>HECTOR technology for high-level C/C++ to RTL equivalence checking in datapath validation workflows.</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <p class="resource-note">Available to authorized lab members under applicable license terms.</p>
+          </div>
+        </div>
+
+  - block: markdown
     id: talks
     content:
       title: Talks

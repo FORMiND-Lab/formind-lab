@@ -16,6 +16,9 @@ main:
   - name: Tools 
     url: /#tools
     weight: 40
+  - name: Resources
+    url: /#resources
+    weight: 45
   - name: Talks 
     url: /#talks
     weight: 50
