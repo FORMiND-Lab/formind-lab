@@ -76,6 +76,20 @@
   margin-bottom: 0;
 }
 
+.resource-subsection {
+  margin-top: 1rem;
+}
+
+.resource-subsection + .resource-subsection {
+  margin-top: 1.4rem;
+}
+
+.resource-subsection h4 {
+  margin: 0 0 0.45rem;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
 .resource-table-wrap {
   max-width: 100%;
   overflow-x: auto;

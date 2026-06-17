@@ -4,17 +4,29 @@
 # license servers, credentials, or operational policies.
 
 hardware:
-  title: AI4EDA & Formal Verification Workstation
-  description: Our workstation supports hardware formal verification, AI4EDA experiments, large-scale benchmark processing, and FPGA-accelerated prototyping.
-  items:
-    - category: CPU
-      description: AMD Ryzen Threadripper PRO 9985WX (64 Cores, 128 Threads)
-    - category: Memory
-      description: DDR5 RDIMM 6400, 48 GB x 8, 384 GB in total
-    - category: Storage
-      description: 2* Samsung 9100 PRO 4 TB PCIe 5.0 NVMe SSD, plus 12 TB SATA storage
-    - category: Accelerators
-      description: 1)NVIDIA GeForce RTX 5090 32GB; 2)NVIDIA RTX PRO 6000 96GB; 3)AMD/Xilinx Alveo VCK5000
+  title: AI4EDA & Formal Verification Workstations
+  description: Our workstations support hardware formal verification, AI4EDA experiments, large-scale benchmark processing, and FPGA-accelerated prototyping.
+  workstations:
+    - title: Workstation 1
+      items:
+        - category: CPU
+          description: AMD Ryzen Threadripper PRO 9985WX (64 Cores, 128 Threads)
+        - category: Memory
+          description: DDR5 RDIMM 6400, 48 GB x 8, 384 GB in total
+        - category: Storage
+          description: 2* Samsung 9100 PRO 4 TB PCIe 5.0 NVMe SSD, plus 12 TB SATA storage
+        - category: Accelerators
+          description: NVIDIA GeForce RTX 5090 32GB
+    - title: Workstation 2
+      items:
+        - category: CPU
+          description: 2* AMD EPYC 9755 (256 Cores, 512 Threads in total)
+        - category: Memory
+          description: DDR5 ECC/RDIMM 6400 MT/s, 32 GB x 18, 576 GB in total
+        - category: Storage
+          description: Samsung 990 PRO 4 TB NVMe SSD, plus WD 16 TB enterprise HDD
+        - category: Accelerators
+          description: 1)NVIDIA RTX PRO 6000 96GB; 2)AMD/Xilinx Alveo VCK5000
 
 tools:
   title: AI & Research Productivity Tools

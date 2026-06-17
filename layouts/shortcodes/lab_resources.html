@@ -7,18 +7,38 @@
       {{- with .description }}
         <p>{{ . }}</p>
       {{- end }}
-      <div class="resource-table-wrap">
-        <table class="resource-table">
-          <tbody>
-            {{- range .items }}
-              <tr>
-                <th>{{ .category | markdownify }}</th>
-                <td>{{ .description | markdownify }}</td>
-              </tr>
-            {{- end }}
-          </tbody>
-        </table>
-      </div>
+      {{- if .workstations }}
+        {{- range .workstations }}
+          <div class="resource-subsection">
+            <h4>{{ .title | markdownify }}</h4>
+            <div class="resource-table-wrap">
+              <table class="resource-table">
+                <tbody>
+                  {{- range .items }}
+                    <tr>
+                      <th>{{ .category | markdownify }}</th>
+                      <td>{{ .description | markdownify }}</td>
+                    </tr>
+                  {{- end }}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        {{- end }}
+      {{- else }}
+        <div class="resource-table-wrap">
+          <table class="resource-table">
+            <tbody>
+              {{- range .items }}
+                <tr>
+                  <th>{{ .category | markdownify }}</th>
+                  <td>{{ .description | markdownify }}</td>
+                </tr>
+              {{- end }}
+            </tbody>
+          </table>
+        </div>
+      {{- end }}
     </div>
   {{- end }}
 
