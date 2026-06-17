@@ -22,7 +22,7 @@ hardware:
         - category: CPU
           description: 2* AMD EPYC 9755 (256 Cores, 512 Threads in total)
         - category: Memory
-          description: DDR5 ECC/RDIMM 6400 MT/s, 32 GB x 18, 576 GB in total
+          description: DDR5 ECC/RDIMM 6400 MT/s, 32 GB x 20, 640 GB in total
         - category: Storage
           description: Samsung 990 PRO 4 TB NVMe SSD, plus WD 16 TB enterprise HDD
         - category: Accelerators
