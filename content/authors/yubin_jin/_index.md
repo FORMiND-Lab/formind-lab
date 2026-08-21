@@ -4,7 +4,7 @@ title: JIN, Yubin 金裕斌
 
 # Full name (for SEO)
 first_name: Yubin
-last_name: c_Jin
+last_name: c_2026_Jin
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: RA - 2026, School of Integrated Circuit
+role: Master - 2026 fall, School of Integrated Circuit
 
 # Organizations/Affiliations
 organizations:
@@ -32,9 +32,9 @@ interests:
 
 education:
   courses:
-    - course: Undergraduate Student in Integrated Circuit Design and Integrated Systems
+    - course: Bachelor in Integrated Circuit Design and Integrated Systems
       institution: Tianjin University
-      year: In Progress
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -59,7 +59,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Graduate Students
 ---
 
-Yubin Jin graduated from Tianjin University with a degree in Integrated Circuit Design and Integrated Systems. He will be pursuing a master’s degree at the School of Integrated Circuit, Southeast University, starting in Fall 2026.
+Yubin Jin joined FORMiND Lab as a master's student at the School of Integrated Circuits, Southeast University, in 2026.

@@ -4,7 +4,7 @@ title: MO, Yusen 莫宇森
 
 # Full name (for SEO)
 first_name: Yusen
-last_name: c_Mo
+last_name: a_2026_Mo
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: RA - 2026, School of Integrated Circuit
+role: Ph.D. - 2026 fall, School of Integrated Circuit
 
 # Organizations/Affiliations
 organizations:
@@ -29,9 +29,9 @@ interests:
   - Swimming
 education:
   courses:
-    - course: Undergraduate Student at the School of Electronic Science and Engineering
+    - course: Bachelor in Electronic Science and Technology
       institution: Southeast University
-      year: In Progress
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -56,7 +56,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Graduate Students
 ---
 
-Yusen Mo is a senior undergraduate student majoring in Electronic Science and Technology at Southeast University. He will be joining the FORMiND lab as a Ph.D. student in this September.
+Yusen Mo joined FORMiND Lab as a Ph.D. student at the School of Integrated Circuits, Southeast University, in 2026.

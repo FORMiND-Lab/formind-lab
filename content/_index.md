@@ -26,6 +26,8 @@ sections:
       title: News
       subtitle: ''
       text: |
+        **Aug. 2026**: 🎉We are delighted to welcome **Shenghu Han** and **Yusen Mo** as Ph.D. students, and **Zixiang Fu**, **Yubin Jin**, **Zihan Ming**, **Yiting Yang**, and **Huitong Zhang** as master's students. All seven joined FORMiND Lab in 2026.
+
         **May 2026**: 🎉We are pleased to share that our paper has been accepted to **IWLS 2026**. This work represents the first project independently led by FORMiND Lab members, showcasing the growing strength of our young research team. Warm congratulations to **Xudong** and **Yusen** on this accomplishment.
 
         **Mar. 2026**: 🎉1x**DAC** and 1x**FSE-TD**, congratulations to Jiaying.

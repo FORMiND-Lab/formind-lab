@@ -4,7 +4,7 @@ title: MING, Zihan 明子涵
 
 # Full name (for SEO)
 first_name: Zihan
-last_name: c_Ming
+last_name: c_2026_Ming
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: RA - 2026, School of Integrated Circuit
+role: Master - 2026 fall, School of Integrated Circuit
 
 # Organizations/Affiliations
 organizations:
@@ -31,9 +31,9 @@ interests:
 
 education:
   courses:
-    - course: Undergraduate Student in Integrated Circuit Design and Integrated Systems
+    - course: Bachelor in Integrated Circuit Design and Integrated Systems
       institution: Anhui University
-      year: In Progress
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -58,7 +58,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Graduate Students
 ---
 
-Zihan Ming is a senior undergraduate student at the School of Integrated Circuits at Anhui University. She will be joining the FORMiND Lab to pursue her Master's degree in this September.
+Zihan Ming joined FORMiND Lab as a master's student at the School of Integrated Circuits, Southeast University, in 2026.

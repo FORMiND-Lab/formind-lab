@@ -4,7 +4,7 @@ title: ZHANG, Huitong 张慧通
 
 # Full name (for SEO)
 first_name: Huitong
-last_name: c_Zhang
+last_name: c_2026_Zhang
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: RA - 2026, School of Integrated Circuit
+role: Master - 2026 fall, School of Integrated Circuit
 
 # Organizations/Affiliations
 organizations:
@@ -33,9 +33,9 @@ interests:
 
 education:
   courses:
-    - course: Undergraduate Student in Textiles Materials
+    - course: Bachelor in Textile Materials
       institution: Donghua University
-      year: In Progress
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -60,7 +60,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Graduate Students
 ---
 
-Zhang Huitong is about to graduate from Donghua University and will start studying for an integrated circuit engineering degree at Southeast University's Integrated Circuit Institute in September, under the guidance of Li Min.
+Huitong Zhang joined FORMiND Lab as a master's student at the School of Integrated Circuits, Southeast University, in 2026.

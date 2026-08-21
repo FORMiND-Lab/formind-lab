@@ -4,7 +4,7 @@ title: HU, Xudong 胡旭东
 
 # Full name (for SEO)
 first_name: Xudong
-last_name: a_Hu
+last_name: a_2025_Hu
 
 # Username (this should match the folder name)
 authors:

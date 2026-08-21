@@ -4,7 +4,7 @@ title: FU, Zixiang 傅紫翔
 
 # Full name (for SEO)
 first_name: Zixiang
-last_name: c_Fu
+last_name: c_2026_Fu
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: RA - 2026, School of Integrated Circuit
+role: Master - 2026 fall, School of Integrated Circuit
 
 # Organizations/Affiliations
 organizations:
@@ -28,9 +28,9 @@ interests:
   - Artificial Intelligence
 education:
   courses:
-    - course: Undergraduate Student at the School of Electronic Science and Engineering
+    - course: Bachelor in Electronic Science and Technology
       institution: Southeast University
-      year: In Progress
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -55,7 +55,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Graduate Students
 ---
 
-Zixiang Fu is a senior undergraduate student majoring in Electronic Science and Technology at Southeast University. In this September, he will join the FORMiND Lab as a Master's student.
+Zixiang Fu joined FORMiND Lab as a master's student at the School of Integrated Circuits, Southeast University, in 2026.
