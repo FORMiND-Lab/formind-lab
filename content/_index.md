@@ -78,6 +78,8 @@ sections:
       title: Talks
       subtitle: ''
       text: |
+        - **Agentic Pathways for Solving Hard Instances in Hardware Formal Verification** [🎬](https://www.bilibili.com/video/BV1VR3X6iEqB?spm_id_from=333.788.videopod.episodes&vd_source=de3e205d459754fb14d7c47bd6cf0433&p=3)  
+          07/2026: The 9th Workshop on Hard Computational Problems: Theories, Algorithms and Applications (HCP 2026), Shandong University.
         - **From Generation to Verified Synthesis: Bridging Industrial Reality via C-Guided Agents** [📄](files/talks/From_Generation_to_Verified_Synthesis.pdf)  
           01/2026: (Designer Forum 1) Toward Autonomous Chip Design: From Foundation Models to AgenticEDA, ASP-DAC26.
         - **Applications and Prospects of Formal Methods in Hardware Verification Tools** [📄](files/talks/ict_is_youth_202508.pdf) [🎬](https://www.bilibili.com/video/BV19NePzNEus?buvid=XU9CB8E97888E6317C8C629982ABDD4E78952&from_spmid=default-value&is_story_h5=false&mid=%2Bgp5S7io8OxAw1lwmhrOGA%3D%3D&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=5ae10524-3e8d-4159-a3dd-8cc7f3c6c1e2&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1755747203&unique_k=Z6McQfX&up_id=36888575&vd_source=de3e205d459754fb14d7c47bd6cf0433&p=9&spm_id_from=333.788.videopod.episodes)  
