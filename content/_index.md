@@ -26,6 +26,8 @@ sections:
       title: News
       subtitle: ''
       text: |
+        **Aug. 2026**: 🎉Our project *"Research on Hardware Formal Verification Across Abstraction Levels for Complex Datapaths"* has been funded by the **NSFC Young Scientists Fund** (国家自然科学基金青年科学基金). 🎉We are also honored to have contributed as a co-author to the work led by the CURE Lab, which received the **Best Paper Award at DAC 2026**. Congratulations to **Jiaying** and all collaborators!
+
         **Aug. 2026**: 🎉We are delighted to welcome **Shenghu Han** and **Yusen Mo** as Ph.D. students, and **Zixiang Fu**, **Yubin Jin**, **Zihan Ming**, **Yiting Yang**, and **Huitong Zhang** as master's students. All seven joined FORMiND Lab in 2026.
 
         **May 2026**: 🎉We are pleased to share that our paper has been accepted to **IWLS 2026**. This work represents the first project independently led by FORMiND Lab members, showcasing the growing strength of our young research team. Warm congratulations to **Xudong** and **Yusen** on this accomplishment.
@@ -98,6 +100,13 @@ sections:
       text: |
         - <span class="pub-badge pub-badge--preprint">Preprint</span>**FormalRTL: Verified RTL Synthesis at Scale**[🔗](https://arxiv.org/pdf/2603.08738)[📄](files/papers/FormalRTL.pdf)  
           Kezhi Li, **Min Li**, Xiangyu Wen, Shibo Zhao, Jieying Wu, Junhua Huang, Qiang Xu
+        - <span class="pub-badge pub-badge--preprint">Preprint</span>**Spec-Driven Hardware Evolution via Executable Contract Refinement and Proof-Guided RTL Update**[🔗](https://arxiv.org/pdf/2608.12684)[📄](files/papers/2608.12684v1.pdf)  
+          Shibo Zhao, Yang Zhang, Mengxia Tao, Baoqi Zhang, Kezhi Li, Qiang Xu, Binwu Zhu, Hao Yan, **Min Li**
+        - <span class="pub-badge pub-badge--preprint">Preprint</span>**Arisca: A Parameterized Symbolic Algebra Framework for Arithmetic Circuit Verification**[🔗](https://arxiv.org/pdf/2607.10257) 
+          Kezhi Li, **Min Li**, Qiang Xu
+        - <span class="pub-badge pub-badge--dac">DAC'26</span>**Miter-Aware LUT Mapping: Aligning Structure and Solvability for Efficient Logic Equivalence Checking (Best Paper Award)**[🔗](https://arxiv.org/pdf/2607.07164)
+          Jiaying Zhu, Zhengyuan Shi, Mengxia Tao, Kezhi Li,**Min Li**, Qiang Xu
+          Design Automation Conference (CCF-A), 2026.
         - <span class="pub-badge pub-badge--fse">FSE-TD'26</span>**EquivFusion: Unifying Hardware Equivalence Checking from Algorithms to Netlists via MLIR** [🔗](https://arxiv.org/abs/2604.16571)[📄](files/papers/EquivFusion_FSE2026.pdf)  
           Jiaying Zhu, Baoqi Zhang, Mengxiao Tao, Kezhi Li, Hao Yan, Qiang Xu, **Min Li**  
           ACM International Conference on the Foundations of Software Engineering - Tool Demonstrations Track (CCF-A), 2026.
@@ -119,6 +128,17 @@ sections:
       subtitle: ''
       text: |
         {{< lab_resources >}}
+
+
+  - block: markdown
+    id: sponsors
+    content:
+      title: Sponsors
+      subtitle: ''
+      text: |
+        Our research is generously supported by the following funding agencies and industry partners:
+
+        {{< sponsors >}}
 
 
   - block: contact

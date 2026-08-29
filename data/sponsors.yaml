@@ -1,0 +1,16 @@
+# Sponsors displayed by the `sponsors` shortcode on the homepage.
+# `logo` is a file inside `assets/media/sponsors/`; if the file is missing,
+# the sponsor name is rendered as a text badge instead.
+sponsors:
+  - name: National Natural Science Foundation of China
+    short: NSFC
+    logo: nsfc.png
+    url: https://www.nsfc.gov.cn/
+  - name: Huawei
+    short: Huawei
+    logo: huawei.svg
+    url: https://www.huawei.com/
+  - name: ByteDance
+    short: ByteDance
+    logo: bytedance.svg
+    url: https://www.bytedance.com/

@@ -25,6 +25,9 @@ main:
   - name: Resources
     url: /#resources
     weight: 65
+  - name: Sponsors
+    url: /#sponsors
+    weight: 68
   - name: Contact
     url: /#contact
     weight: 70

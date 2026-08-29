@@ -47,6 +47,66 @@
 }
 .pub-badge--tcad { background: #6c4eb6; /* professional deep purple */ color: #fff; /* white text for contrast */ }
 .pub-badge--fse { background: #2bcd2e; /*  */ color: #fff; /* white text for contrast */ }
+.pub-badge--dac { background: #c0392b; /* DAC crimson */ color: #fff; /* white text for contrast */ }
+
+/* Sponsors section */
+.sponsor-grid {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 1.25rem;
+  margin: 0.5rem 0 0;
+}
+
+.sponsor-item {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 180px;
+  height: 92px;
+  padding: 0.9rem 1.4rem;
+  background: #fff;
+  border: 1px solid rgba(127, 127, 127, 0.24);
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  transition: transform 120ms ease, box-shadow 120ms ease;
+}
+
+.sponsor-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+}
+
+.sponsor-item img {
+  max-height: 52px;
+  max-width: 220px;
+  width: auto;
+  object-fit: contain;
+}
+
+.sponsor-fallback {
+  font-weight: 700;
+  color: #333;
+  text-align: center;
+}
+
+@media (max-width: 640px) {
+  .sponsor-grid {
+    gap: 0.85rem;
+  }
+
+  .sponsor-item {
+    min-width: 140px;
+    height: 76px;
+    padding: 0.7rem 1rem;
+  }
+
+  .sponsor-item img {
+    max-height: 40px;
+    max-width: 160px;
+  }
+}
 
 /* Resources section */
 .resource-grid {

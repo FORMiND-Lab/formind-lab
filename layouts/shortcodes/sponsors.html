@@ -1,0 +1,15 @@
+{{- $sponsors := site.Data.sponsors.sponsors -}}
+
+<div class="sponsor-grid">
+  {{- range $sponsors }}
+    {{- $logo := resources.Get (printf "media/sponsors/%s" .logo) -}}
+    {{- $label := default .name .short -}}
+    {{- if .url }}<a class="sponsor-item" href="{{ .url }}" target="_blank" rel="noopener" title="{{ .name }}">{{ else }}<span class="sponsor-item" title="{{ .name }}">{{ end -}}
+      {{- with $logo -}}
+        <img src="{{ .RelPermalink }}" alt="{{ $label }}" loading="lazy">
+      {{- else -}}
+        <span class="sponsor-fallback">{{ $label }}</span>
+      {{- end -}}
+    {{- if .url }}</a>{{ else }}</span>{{ end -}}
+  {{- end }}
+</div>
