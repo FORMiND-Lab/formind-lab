@@ -33,7 +33,7 @@ tools:
   items:
     - category: DeepSeek API
       description: API access for AI-assisted research, coding, and experimental workflows.
-    - category: OpenAI Plus
+    - category: OpenAI Pro
       description: Access to advanced AI assistants for research ideation, writing, coding, and verification-related productivity.
     - category: Overleaf Membership
       description: Collaborative LaTeX writing support for papers, reports, and research documentation.
