@@ -56,7 +56,7 @@ sections:
           - Faculty
           - Students
           - Graduate Students
-          - Undergraduate Students
+          # - Undergraduate Students
           - Visitors
           - Alumni
           # - Super-Supervisor
@@ -102,11 +102,11 @@ sections:
           Kezhi Li, **Min Li**, Xiangyu Wen, Shibo Zhao, Jieying Wu, Junhua Huang, Qiang Xu
         - <span class="pub-badge pub-badge--preprint">Preprint</span>**Spec-Driven Hardware Evolution via Executable Contract Refinement and Proof-Guided RTL Update**[🔗](https://arxiv.org/pdf/2608.12684)[📄](files/papers/2608.12684v1.pdf)  
           Shibo Zhao, Yang Zhang, Mengxia Tao, Baoqi Zhang, Kezhi Li, Qiang Xu, Binwu Zhu, Hao Yan, **Min Li**
-        - <span class="pub-badge pub-badge--preprint">Preprint</span>**Arisca: A Parameterized Symbolic Algebra Framework for Arithmetic Circuit Verification**[🔗](https://arxiv.org/pdf/2607.10257) 
+        - <span class="pub-badge pub-badge--preprint">Preprint</span>**Arisca: A Parameterized Symbolic Algebra Framework for Arithmetic Circuit Verification**[🔗](https://arxiv.org/pdf/2607.10257)  
           Kezhi Li, **Min Li**, Qiang Xu
-        - <span class="pub-badge pub-badge--dac">DAC'26</span>**Miter-Aware LUT Mapping: Aligning Structure and Solvability for Efficient Logic Equivalence Checking (Best Paper Award)**[🔗](https://arxiv.org/pdf/2607.07164)
-          Jiaying Zhu, Zhengyuan Shi, Mengxia Tao, Kezhi Li,**Min Li**, Qiang Xu
-          Design Automation Conference (CCF-A), 2026.
+        - <span class="pub-badge pub-badge--dac">DAC'26</span>**Miter-Aware LUT Mapping: Aligning Structure and Solvability for Efficient Logic Equivalence Checking **[🔗](https://arxiv.org/pdf/2607.07164)
+          Jiaying Zhu, Zhengyuan Shi, Mengxia Tao, Kezhi Li,**Min Li**, Qiang Xu  
+          (**Best Paper Award**) Design Automation Conference (CCF-A), 2026.
         - <span class="pub-badge pub-badge--fse">FSE-TD'26</span>**EquivFusion: Unifying Hardware Equivalence Checking from Algorithms to Netlists via MLIR** [🔗](https://arxiv.org/abs/2604.16571)[📄](files/papers/EquivFusion_FSE2026.pdf)  
           Jiaying Zhu, Baoqi Zhang, Mengxiao Tao, Kezhi Li, Hao Yan, Qiang Xu, **Min Li**  
           ACM International Conference on the Foundations of Software Engineering - Tool Demonstrations Track (CCF-A), 2026.
