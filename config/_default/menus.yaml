@@ -22,11 +22,11 @@ main:
   - name: Publications 
     url: /#publications
     weight: 60
-  - name: Resources
-    url: /#resources
-    weight: 65
   - name: Sponsors
     url: /#sponsors
+    weight: 65
+  - name: Resources
+    url: /#resources
     weight: 68
   - name: Contact
     url: /#contact
