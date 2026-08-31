@@ -2,6 +2,10 @@
 # `logo` is a file inside `assets/media/sponsors/`; if the file is missing,
 # the sponsor name is rendered as a text badge instead.
 sponsors:
+  - name: Southeast University
+    short: SEU
+    logo: seu.svg
+    url: https://www.seu.edu.cn/
   - name: National Natural Science Foundation of China
     short: NSFC
     logo: nsfc.png
