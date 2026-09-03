@@ -14,19 +14,19 @@ hardware:
         - category: Memory
           description: DDR5 RDIMM 6400, 48 GB x 8, 384 GB in total
         - category: Storage
-          description: 2* Samsung 9100 PRO 4 TB PCIe 5.0 NVMe SSD, plus 12 TB SATA storage
+          description: 2 x Samsung 9100 PRO 4 TB PCIe 5.0 NVMe SSD, plus 12 TB SATA storage
         - category: Accelerators
           description: NVIDIA GeForce RTX 5090 32GB
     - title: Workstation 2
       items:
         - category: CPU
-          description: 2* AMD EPYC 9755 (256 Cores, 512 Threads in total)
+          description: 2 x AMD EPYC 9755 (256 Cores, 512 Threads in total)
         - category: Memory
           description: DDR5 ECC/RDIMM 6400 MT/s, 32 GB x 20, 640 GB in total
         - category: Storage
           description: Samsung 990 PRO 4 TB NVMe SSD, plus WD 16 TB enterprise HDD
         - category: Accelerators
-          description: 1)NVIDIA RTX PRO 6000 96GB; 2)AMD/Xilinx Alveo VCK5000
+          description: 1) NVIDIA RTX PRO 6000 96GB; 2) AMD/Xilinx Alveo VCK5000
 
 tools:
   title: AI & Research Productivity Tools
