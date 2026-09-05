@@ -78,6 +78,18 @@
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
 }
 
+.sponsor-logos {
+  display: inline-flex;
+  align-items: center;
+  gap: 1.1rem;
+}
+
+/* Divider between co-branded logos sharing one badge. */
+.sponsor-logos img + img {
+  padding-left: 1.1rem;
+  border-left: 1px solid rgba(127, 127, 127, 0.28);
+}
+
 .sponsor-item img {
   max-height: 52px;
   max-width: 220px;
@@ -100,6 +112,14 @@
     min-width: 140px;
     height: 76px;
     padding: 0.7rem 1rem;
+  }
+
+  .sponsor-logos {
+    gap: 0.7rem;
+  }
+
+  .sponsor-logos img + img {
+    padding-left: 0.7rem;
   }
 
   .sponsor-item img {

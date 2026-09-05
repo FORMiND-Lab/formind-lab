@@ -2,11 +2,21 @@
 
 <div class="sponsor-grid">
   {{- range $sponsors }}
-    {{- $logo := resources.Get (printf "media/sponsors/%s" .logo) -}}
     {{- $label := default .name .short -}}
+    {{- $logos := .logos -}}
+    {{- if and (not $logos) .logo }}{{ $logos = slice (dict "file" .logo "alt" $label) }}{{ end -}}
     {{- if .url }}<a class="sponsor-item" href="{{ .url }}" target="_blank" rel="noopener" title="{{ .name }}">{{ else }}<span class="sponsor-item" title="{{ .name }}">{{ end -}}
-      {{- with $logo -}}
-        <img src="{{ .RelPermalink }}" alt="{{ $label }}" loading="lazy">
+      {{- $images := slice -}}
+      {{- range $logos }}
+        {{- $alt := .alt -}}
+        {{- with resources.Get (printf "media/sponsors/%s" .file) }}{{ $images = $images | append (dict "src" .RelPermalink "alt" $alt) }}{{ end -}}
+      {{- end -}}
+      {{- if $images -}}
+        <span class="sponsor-logos">
+          {{- range $images -}}
+            <img src="{{ .src }}" alt="{{ .alt }}" loading="lazy">
+          {{- end -}}
+        </span>
       {{- else -}}
         <span class="sponsor-fallback">{{ $label }}</span>
       {{- end -}}

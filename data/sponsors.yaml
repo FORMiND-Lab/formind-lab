@@ -1,6 +1,7 @@
 # Sponsors displayed by the `sponsors` shortcode on the homepage.
 # `logo` is a file inside `assets/media/sponsors/`; if the file is missing,
-# the sponsor name is rendered as a text badge instead.
+# the sponsor name is rendered as a text badge instead. Use `logos` instead of
+# `logo` to put several images side by side in one badge under one link.
 sponsors:
   - name: Southeast University
     short: SEU
@@ -10,14 +11,15 @@ sponsors:
     short: NSFC
     logo: nsfc.png
     url: https://www.nsfc.gov.cn/
-  - name: Huawei
+  - name: Huawei & HiSilicon
     short: Huawei
-    logo: huawei.svg
+    # Several logos share one badge; `alt` labels each image.
+    logos:
+      - file: huawei.svg
+        alt: Huawei
+      - file: hisilicon.png
+        alt: HiSilicon
     url: https://www.huawei.com/
-  - name: HiSilicon
-    short: HiSilicon
-    logo: hisilicon.png
-    url: https://www.hisilicon.com/
   - name: ByteDance
     short: ByteDance
     logo: bytedance.svg
