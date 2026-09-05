@@ -14,6 +14,10 @@ sponsors:
     short: Huawei
     logo: huawei.svg
     url: https://www.huawei.com/
+  - name: HiSilicon
+    short: HiSilicon
+    logo: hisilicon.png
+    url: https://www.hisilicon.com/
   - name: ByteDance
     short: ByteDance
     logo: bytedance.svg

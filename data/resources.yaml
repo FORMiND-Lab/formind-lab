@@ -26,7 +26,7 @@ hardware:
         - category: Storage
           description: Samsung 990 PRO 4 TB NVMe SSD, plus WD 16 TB enterprise HDD
         - category: Accelerators
-          description: 1) NVIDIA RTX PRO 6000 96GB; 2) AMD/Xilinx Alveo VCK5000
+          description: 1\) NVIDIA RTX PRO 6000 96GB; 2) AMD/Xilinx Alveo VCK5000
 
 tools:
   title: AI & Research Productivity Tools
