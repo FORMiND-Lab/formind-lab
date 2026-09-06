@@ -4,7 +4,7 @@ title: MO, Yusen 莫宇森
 
 # Full name (for SEO)
 first_name: Yusen
-last_name: a_2026_Mo
+last_name: 2026_a_Mo
 
 # Username (this should match the folder name)
 authors:

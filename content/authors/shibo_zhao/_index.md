@@ -4,7 +4,7 @@ title: ZHAO, Shibo 赵世博
 
 # Full name (for SEO)
 first_name: Shibo
-last_name: b_Zhao
+last_name: 2025_b_Zhao
 
 # Username (this should match the folder name)
 authors:

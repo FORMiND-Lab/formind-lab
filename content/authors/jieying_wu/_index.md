@@ -4,7 +4,7 @@ title: WU, Jieying 吴洁樱
 
 # Full name (for SEO)
 first_name: Jieying
-last_name: b_Wu
+last_name: 2025_b_Wu
 
 # Username (this should match the folder name)
 authors:

@@ -4,7 +4,7 @@ title: ZHANG, Yang 张扬
 
 # Full name (for SEO)
 first_name: Yang
-last_name: b_Zhang
+last_name: 2025_b_Zhang
 
 # Username (this should match the folder name)
 authors:

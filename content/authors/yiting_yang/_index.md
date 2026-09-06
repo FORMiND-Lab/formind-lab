@@ -4,7 +4,7 @@ title: YANG, Yiting 杨怡婷
 
 # Full name (for SEO)
 first_name: Yiting
-last_name: c_2026_Yang
+last_name: 2026_b_Yang
 
 # Username (this should match the folder name)
 authors:

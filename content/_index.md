@@ -60,6 +60,7 @@ sections:
           - Visitors
           - Alumni
           # - Super-Supervisor
+      # Graduate student last_name keys: YEAR_a_SURNAME (PhD), YEAR_b_SURNAME (Master).
       sort_by: Params.last_name
       sort_ascending: true
     design:

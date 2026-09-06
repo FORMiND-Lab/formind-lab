@@ -4,7 +4,7 @@ title: JIN, Yubin 金裕斌
 
 # Full name (for SEO)
 first_name: Yubin
-last_name: c_2026_Jin
+last_name: 2026_b_Jin
 
 # Username (this should match the folder name)
 authors:

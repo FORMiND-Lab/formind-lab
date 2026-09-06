@@ -4,7 +4,7 @@ title: ZHANG, Huitong 张慧通
 
 # Full name (for SEO)
 first_name: Huitong
-last_name: c_2026_Zhang
+last_name: 2026_b_Zhang
 
 # Username (this should match the folder name)
 authors:

@@ -4,7 +4,7 @@ title: FU, Zixiang 傅紫翔
 
 # Full name (for SEO)
 first_name: Zixiang
-last_name: c_2026_Fu
+last_name: 2026_b_Fu
 
 # Username (this should match the folder name)
 authors:

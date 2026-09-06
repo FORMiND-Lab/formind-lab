@@ -4,7 +4,7 @@ title: CHEN, Jiongming 陈炯铭
 
 # Full name (for SEO)
 first_name: Jiongming
-last_name: b_Chen
+last_name: 2025_b_Chen
 
 # Username (this should match the folder name)
 authors:

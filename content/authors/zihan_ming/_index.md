@@ -4,7 +4,7 @@ title: MING, Zihan 明子涵
 
 # Full name (for SEO)
 first_name: Zihan
-last_name: c_2026_Ming
+last_name: 2026_b_Ming
 
 # Username (this should match the folder name)
 authors:

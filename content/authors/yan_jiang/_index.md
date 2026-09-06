@@ -4,7 +4,7 @@ title: JIANG, Yan 江燕
 
 # Full name (for SEO)
 first_name: Yan
-last_name: b_Jiang
+last_name: 2025_b_Jiang
 
 # Username (this should match the folder name)
 authors:
