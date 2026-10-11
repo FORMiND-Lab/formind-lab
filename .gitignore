@@ -9,3 +9,5 @@ assets/jsconfig.json
 # Files only used during build
 .hugo_build.lock
 go.sum
+
+.DS_Store

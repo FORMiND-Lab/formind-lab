@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:shenghu.han@outlook.com'
+    link: 'mailto:sh.han@seu.edu.cn'
   - icon: github
     icon_pack: fab
     link: https://github.com/EasyMoneyTiger
