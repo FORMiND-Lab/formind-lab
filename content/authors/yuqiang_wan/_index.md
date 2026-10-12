@@ -57,7 +57,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  #- Undergraduate Students
+  - Undergraduate Students
 ---
 
 Yuqiang Wan joined FORMIND Lab as a master student at the School of Integrated Circuits, Southeast University In 2027.
