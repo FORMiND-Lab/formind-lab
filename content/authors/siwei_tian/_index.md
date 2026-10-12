@@ -1,0 +1,63 @@
+---
+# Display name
+title: TIAN, Siwei 田思为
+
+# Full name (for SEO)
+first_name: Siwei
+last_name: 2027_b_Tian
+
+# Username (this should match the folder name)
+authors:
+  - Siwei_tian
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: Undergraduate - 2027 fall, School of Electronic Science & Engineering
+
+# Organizations/Affiliations
+organizations:
+  - name: Southeast University
+    url: 'https://ic.seu.edu.cn/'
+
+# Short bio (displayed in user profile at end of posts)
+bio: ''
+
+interests:
+  - Artificial Intelligence
+  - AI4EDA
+  - Playing Chess
+education:
+  courses:
+    - course: Bachelor in Electronic Science & Engineering
+      institution: Southeast University
+      year: 2027
+
+# Social/Academic Networking
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto: 213233867@seu.edu.cn'
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Nebula-noa
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ''
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+  - Undergraduate Students
+---
+
+Siwei Tian joined FORMiND Lab as a Master's student at the School of Integrated Circuits, Southeast University, in 2027.

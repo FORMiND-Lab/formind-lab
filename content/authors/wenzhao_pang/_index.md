@@ -1,0 +1,62 @@
+---
+# Display name
+title: PANG, Wenzhao 庞文钊
+
+# Full name (for SEO)
+first_name: Wenzhao
+last_name: 2027_b_Pang
+
+# Username (this should match the folder name)
+authors:
+  - wenzhao_pang
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: Undergraduate - 2027 fall, School of Electronic Science & Engineering
+
+# Organizations/Affiliations
+organizations:
+  - name: Southeast University
+    url: 'https://ic.seu.edu.cn/'
+
+# Short bio (displayed in user profile at end of posts)
+bio: ''
+
+interests:
+  - AI4EDA
+  - Formal verification
+education:
+  courses:
+    - course: Bachelor in Electronic Science & Engineering
+      institution: Southeast University
+      year: 2027
+
+# Social/Academic Networking
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:2992829808@qq.com'
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/TTTTTT640
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ''
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+  - Undergraduate Students
+---
+
+WenZhao Pang joined FORMIND Lab as a master student at the School of Intergrated Circuits,Southeast University In 2027.

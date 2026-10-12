@@ -40,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:moyusen@seu.edu.cn'
+    link: 'mailto:yusen.mo@seu.edu.cn'
   - icon: github
     icon_pack: fab
     link: https://github.com/BabyRubbish

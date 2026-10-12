@@ -56,7 +56,8 @@ sections:
           - Faculty
           - Students
           - Graduate Students
-          # - Undergraduate Students
+          - Undergraduate Students
+          #- Research Assistants
           - Visitors
           - Alumni
           # - Super-Supervisor
