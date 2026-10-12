@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate - 2027 fall, School of Electronic Science & Engineering
+role: Undergraduate - 2027 fall, School of Integrated Circuits
 
 # Organizations/Affiliations
 organizations:
