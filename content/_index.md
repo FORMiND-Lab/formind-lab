@@ -26,7 +26,9 @@ sections:
       title: News
       subtitle: ''
       text: |
-        **Aug. 2026**: 🎉Our project *"Research on Hardware Formal Verification Across Abstraction Levels for Complex Datapaths"* has been funded by the **NSFC Young Scientists Fund (C Class)** (国家自然科学基金青年科学基金C类). 🎉We are also honored to have contributed as a co-author to the work led by the CURE Lab, which received the **Best Paper Award at DAC 2026**. Congratulations to **Jiaying** and all collaborators!
+        **Nov. 2026**: 🎉 Four papers have been accepted to **DATE 2027**: two from FORMiND Lab and two from collaborations with other research groups. Congratulations to all co-authors! We’ll release the code for our own bug hunter and datapath verifier later.
+
+        **Aug. 2026**: 🎉Our project *"Research on Hardware Formal Verification Across Abstraction Levels for Complex Datapaths"* has been funded by the **NSFC Young Scientists Fund C Class** (国家自然科学基金青年科学基金C类). 🎉We are also honored to have contributed as a co-author to the work led by the CURE Lab, which received the **Best Paper Award at DAC 2026**. Congratulations to **Jiaying** and all collaborators!
 
         **Aug. 2026**: 🎉We are delighted to welcome **Shenghu Han** and **Yusen Mo** as Ph.D. students, and **Zixiang Fu**, **Yubin Jin**, **Zihan Ming**, **Yiting Yang**, and **Huitong Zhang** as master's students. All seven joined FORMiND Lab in 2026.
 
