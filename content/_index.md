@@ -109,6 +109,15 @@ sections:
           Shibo Zhao, Yang Zhang, Mengxia Tao, Baoqi Zhang, Kezhi Li, Qiang Xu, Binwu Zhu, Hao Yan, **Min Li**
         - <span class="pub-badge pub-badge--preprint">Preprint</span>**Arisca: A Parameterized Symbolic Algebra Framework for Arithmetic Circuit Verification**[🔗](https://arxiv.org/pdf/2607.10257)  
           Kezhi Li, **Min Li**, Qiang Xu
+        - <span class="pub-badge pub-badge--date">DATE'27</span>**ReCAP: Boosting Multi-Property Bug Hunting via Similarity-Guided Counterexample Relaying**\
+          Jieying Wu, Yan Jiang, Shenghu Han, Jiongming Chen, Wenji Fang, Xingtong Yang, Zhiyao Xie, **Min Li**<sup>#</sup>\
+          Design, Automation and Test in Europe Conference (CCF-B), 2027.
+        - <span class="pub-badge pub-badge--date">DATE'27</span>**BUTTRESS: Converging Hard Datapath Equivalence Proofs from the Miter Alone**\
+          Yang Zhang, Shibo Zhao, Wenji Fang, Jiongming Chen, Kezhi Li, Xingtong Yang, Zhiyao Xie, **Min Li**<sup>#</sup>\
+          Design, Automation and Test in Europe Conference (CCF-B), 2027.
+        - <span class="pub-badge pub-badge--neurips">NeurIPS'26</span>**FuncFormer: Circuit Representation Learning via the Flow of Functional Propagation**\
+          Yunjie Ji, Zhihai Wang, **Min Li**, Junhua Huang, Zhihao Shi, Feng Wu, Mingxuan Yuan, Jianye Hao, Jie Wang\
+          Conference on Neural Information Processing Systems (CCF-A), 2026.
         - <span class="pub-badge pub-badge--dac">DAC'26</span>**Miter-Aware LUT Mapping: Aligning Structure and Solvability for Efficient Logic Equivalence Checking**[🔗](https://arxiv.org/pdf/2607.07164)  
           Jiaying Zhu, Zhengyuan Shi, Mengxia Tao, Kezhi Li, **Min Li**, Qiang Xu  
           (**Best Paper Award**) Design Automation Conference (CCF-A), 2026.
