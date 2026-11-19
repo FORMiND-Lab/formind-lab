@@ -110,10 +110,13 @@ sections:
         - <span class="pub-badge pub-badge--preprint">Preprint</span>**Arisca: A Parameterized Symbolic Algebra Framework for Arithmetic Circuit Verification**[🔗](https://arxiv.org/pdf/2607.10257)  
           Kezhi Li, **Min Li**, Qiang Xu
         - <span class="pub-badge pub-badge--date">DATE'27</span>**ReCAP: Boosting Multi-Property Bug Hunting via Similarity-Guided Counterexample Relaying**\
-          Jieying Wu, Yan Jiang, Shenghu Han, Jiongming Chen, Wenji Fang, Xingtong Yang, Zhiyao Xie, **Min Li**<sup>#</sup>\
+          Jieying Wu, Yan Jiang, Shenghu Han, Jiongming Chen, Wenji Fang, Xingtong Yang, Zhiyao Xie, **Min Li**\
           Design, Automation and Test in Europe Conference (CCF-B), 2027.
         - <span class="pub-badge pub-badge--date">DATE'27</span>**BUTTRESS: Converging Hard Datapath Equivalence Proofs from the Miter Alone**\
-          Yang Zhang, Shibo Zhao, Wenji Fang, Jiongming Chen, Kezhi Li, Xingtong Yang, Zhiyao Xie, **Min Li**<sup>#</sup>\
+          Yang Zhang, Shibo Zhao, Wenji Fang, Jiongming Chen, Kezhi Li, Xingtong Yang, Zhiyao Xie, **Min Li**\
+          Design, Automation and Test in Europe Conference (CCF-B), 2027.
+        - <span class="pub-badge pub-badge--date">DATE'27</span>**Beyond Greedy Rewriting: State-Aware Beam Search for SCA-Based Multiplier Verification**\
+          Kezhi Li, **Min Li**, Zhengyuan Shi, Qiang Xu\
           Design, Automation and Test in Europe Conference (CCF-B), 2027.
         - <span class="pub-badge pub-badge--neurips">NeurIPS'26</span>**FuncFormer: Circuit Representation Learning via the Flow of Functional Propagation**\
           Yunjie Ji, Zhihai Wang, **Min Li**, Junhua Huang, Zhihao Shi, Feng Wu, Mingxuan Yuan, Jianye Hao, Jie Wang\
