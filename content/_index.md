@@ -103,9 +103,16 @@ sections:
       title: Research
       subtitle: ''
       text: |
+        <section class="research-area research-area--verification">
+
+        <header class="research-area__header">
+        <span class="research-area__icon" aria-hidden="true"><i class="fas fa-shield-alt"></i></span>
+
         ## Hardware Formal Verification
 
         We develop formal methods for finding bugs across many hardware properties and proving equivalence between algorithmic models, RTL, and netlists. Our goal is to make these checks scale to complex arithmetic and datapath circuits used in industrial designs.
+
+        </header>
 
         - <span class="pub-badge pub-badge--preprint">Preprint</span>**Arisca: A Parameterized Symbolic Algebra Framework for Arithmetic Circuit Verification**[🔗](https://arxiv.org/pdf/2607.10257)  
           Kezhi Li, **Min Li**, Qiang Xu
@@ -125,9 +132,18 @@ sections:
           Jiaying Zhu, Baoqi Zhang, Mengxiao Tao, Kezhi Li, Hao Yan, Qiang Xu, **Min Li**  
           ACM International Conference on the Foundations of Software Engineering - Tool Demonstrations Track (CCF-A), 2026.
 
+        </section>
+
+        <section class="research-area research-area--eda">
+
+        <header class="research-area__header">
+        <span class="research-area__icon" aria-hidden="true"><i class="fas fa-microchip"></i></span>
+
         ## AI for EDA
 
         We develop models that learn how logic circuits behave and apply AI to tasks such as VLSI testing and RTL generation. Our goal is to automate more of the chip design flow and make generated designs verifiable against executable specifications.
+
+        </header>
 
         - <span class="pub-badge pub-badge--preprint">Preprint</span>**FormalRTL: Verified RTL Synthesis at Scale**[🔗](https://arxiv.org/pdf/2603.08738)[📄](files/papers/FormalRTL.pdf)\
           Kezhi Li, **Min Li**, Xiangyu Wen, Shibo Zhao, Jieying Wu, Junhua Huang, Qiang Xu
@@ -143,9 +159,18 @@ sections:
           Xinyun Zhang, Yuyang Chen, Yiwen Wu, Su Zheng, Ran Chen, **Min Li**, Hao Geng, Binwu Zhu, Mingxuan Yuan, Bei Yu  
           IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (CCF-A), 2026.
 
+        </section>
+
+        <section class="research-area research-area--reasoning">
+
+        <header class="research-area__header">
+        <span class="research-area__icon" aria-hidden="true"><i class="fas fa-project-diagram"></i></span>
+
         ## LLM/AI Reasoning and Deployment
 
         We study how explicit knowledge and structured reasoning can help large language models solve multi-step problems. We also explore how to run neural models efficiently on devices with limited computing power and memory. Our goal is to make AI systems more reliable and practical to deploy.
+
+        </header>
 
         - <span class="pub-badge pub-badge--iclr">ICLR'26</span>**Reasoning Scaffolding: Distilling the Flow of Thought from LLMs** [🔗](https://arxiv.org/abs/2509.23619)[📄](files/papers/2509.23619v2.pdf)  
           Xiangyu Wen, Junhua Huang, Zeju Li, **Min Li**, Jianyuan Zhong, Zhijian Xu, Mingxuan Yuan, Yongxiang Huang, Qiang Xu  
@@ -153,6 +178,8 @@ sections:
         - <span class="pub-badge pub-badge--neurips">NeurIPS'25</span>**Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding** [🔗](https://openreview.net/forum?id=DlkM0q4Cvk)[📄](files/papers/12159_Dependency_Matters_Enhan.pdf)  
           Xiangyu Wen, **Min Li**, Junhua Huang, Jianyuan Zhong, Zhijian Xu, Zeju Li, Yongxiang Huang, Mingxuan Yuan, Qiang Xu  
           Conference on Neural Information Processing Systems (CCF-A), 2025.
+
+        </section>
 
 
   - block: markdown
