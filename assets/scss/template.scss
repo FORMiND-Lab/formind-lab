@@ -207,28 +207,28 @@
   color: inherit;
 }
 
-/* Selected publications: fixed badge column + hanging indent */
-#publications ul,
-section#publications ul {
+/* Research publication badges and hanging indents */
+#research ul,
+section#research ul {
   list-style: none;
   padding-left: 0;
   margin-left: 0;
 }
 
-#publications li,
-section#publications li {
+#research li,
+section#research li {
   position: relative;
   margin-bottom: 1.25rem;
   padding-left: 148px;
 }
 
-#publications li::marker,
-section#publications li::marker {
+#research li::marker,
+section#research li::marker {
   content: "";
 }
 
-#publications li > .pub-badge,
-section#publications li > .pub-badge {
+#research li > .pub-badge,
+section#research li > .pub-badge {
   position: absolute;
   top: 0.2rem;
   left: 0;
@@ -283,8 +283,8 @@ section#publications li > .pub-badge {
     padding-top: 0.2rem;
   }
 
-  #publications li,
-  section#publications li {
+  #research li,
+  section#research li {
     padding-left: 118px;
   }
 }
