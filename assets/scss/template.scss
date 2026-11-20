@@ -256,7 +256,8 @@
   position: absolute;
   z-index: -1;
   inset: 0 0 0 auto;
-  width: min(35%, 13rem);
+  width: 35%;
+  max-width: 13rem;
   background-image: radial-gradient(circle, var(--research-accent) 1px, transparent 1.3px);
   background-size: 12px 12px;
   mask-image: radial-gradient(ellipse at top right, #000, transparent 72%);
