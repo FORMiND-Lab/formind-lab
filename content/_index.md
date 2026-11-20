@@ -26,7 +26,7 @@ sections:
       title: News
       subtitle: ''
       text: |
-        **Nov. 2026**: 🎉 Four papers have been accepted to **DATE 2027**: two from FORMiND Lab and two from collaborations with other research groups. Congratulations to all co-authors! We’ll release the code for our own bug hunter and datapath verifier later.
+        **Nov. 2026**: 🎉 Four papers have been accepted to **DATE 2027**: two from FORMiND Lab and two from collaborations with Prof. Qiang Xu and Prof. Hao Yan. Congratulations to all co-authors! We’ll release the code for our own bug hunter and datapath verifier later.
 
         **Aug. 2026**: 🎉Our project *"Research on Hardware Formal Verification Across Abstraction Levels for Complex Datapaths"* has been funded by the **NSFC Young Scientists Fund C Class** (国家自然科学基金青年科学基金C类). 🎉We are also honored to have contributed as a co-author to the work led by the CURE Lab, which received the **Best Paper Award at DAC 2026**. Congratulations to **Jiaying** and all collaborators!
 
