@@ -107,7 +107,7 @@ sections:
 
         ## Hardware Formal Verification
 
-        We develop formal methods for finding bugs across many hardware properties and proving equivalence between algorithmic models, RTL, and netlists. Our goal is to make these checks scale to complex arithmetic and datapath circuits used in industrial designs.
+        We develop formal methods for finding bugs across many hardware properties and proving equivalence between algorithmic models, RTL, and netlists. Our goal is to make these checks scale to complex industrial designs.
 
         - <span class="pub-badge">Preprint</span>**Arisca: A Parameterized Symbolic Algebra Framework for Arithmetic Circuit Verification**[🔗](https://arxiv.org/pdf/2607.10257)\
           Kezhi Li, **Min Li**, Qiang Xu
@@ -133,7 +133,7 @@ sections:
 
         ## AI for EDA
 
-        We develop models that learn how logic circuits behave and apply AI to tasks such as VLSI testing and RTL generation. Our goal is to automate more of the chip design flow and make generated designs verifiable against executable specifications.
+        We develop models that learn how logic circuits behave and apply AI to tasks such as RTL verification and generation.
 
         - <span class="pub-badge">Preprint</span>**FormalRTL: Verified RTL Synthesis at Scale**[🔗](https://arxiv.org/pdf/2603.08738)[📄](files/papers/FormalRTL.pdf)\
           Kezhi Li, **Min Li**, Xiangyu Wen, Shibo Zhao, Jieying Wu, Junhua Huang, Qiang Xu
@@ -155,7 +155,7 @@ sections:
 
         ## LLM/AI Reasoning and Deployment
 
-        We study how explicit knowledge and structured reasoning can help large language models solve multi-step problems. We also explore how to run neural models efficiently on devices with limited computing power and memory. Our goal is to make AI systems more reliable and practical to deploy.
+        We study how explicit knowledge and structured reasoning can help large language models solve multi-step problems. We also explore how to run neural models efficiently on devices with limited computing power and memory.
 
         - <span class="pub-badge" data-venue="iclr">ICLR'26</span>**Reasoning Scaffolding: Distilling the Flow of Thought from LLMs** [🔗](https://arxiv.org/abs/2509.23619)[📄](files/papers/2509.23619v2.pdf)\
           Xiangyu Wen, Junhua Huang, Zeju Li, **Min Li**, Jianyuan Zhong, Zhijian Xu, Mingxuan Yuan, Yongxiang Huang, Qiang Xu  
