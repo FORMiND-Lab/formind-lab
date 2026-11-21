@@ -205,6 +205,10 @@
   color: var(--research-muted);
 }
 
+.research-area > p:last-child {
+  margin-bottom: 0;
+}
+
 .research-area > ul {
   margin: 0;
   padding: 0;
