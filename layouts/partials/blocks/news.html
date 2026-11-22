@@ -8,14 +8,32 @@
     {{ $page.RenderString $renderOptions (.text | emojify) }}
   {{ end }}
   {{ if gt (len $items) $visibleCount }}
-    <details class="news-archive">
-      <summary>
-        <span class="news-show-more">Show More</span>
-        <span class="news-show-less">Show Less</span>
-      </summary>
+    {{ $archiveID := printf "%s-archive" .wcIdentifier }}
+    <div id="{{ $archiveID }}">
       {{ range after $visibleCount $items }}
         {{ $page.RenderString $renderOptions (.text | emojify) }}
       {{ end }}
-    </details>
+    </div>
+    <button type="button" class="news-toggle" aria-controls="{{ $archiveID }}" aria-expanded="false" hidden>Show More</button>
+    <script>
+      (() => {
+        const button = document.currentScript.previousElementSibling;
+        const archive = document.getElementById(button.getAttribute('aria-controls'));
+
+        archive.hidden = true;
+        button.hidden = false;
+
+        button.addEventListener('click', () => {
+          const expanded = archive.hidden;
+          archive.hidden = !expanded;
+          button.setAttribute('aria-expanded', String(expanded));
+          button.textContent = expanded ? 'Show Less' : 'Show More';
+
+          if (!expanded) {
+            button.scrollIntoView({ block: 'nearest' });
+          }
+        });
+      })();
+    </script>
   {{ end }}
 </div>
