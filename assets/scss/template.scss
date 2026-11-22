@@ -8,6 +8,24 @@
   justify-content: center;
 }
 
+.news-archive > summary {
+  width: fit-content;
+  padding: 0.35rem 0.75rem;
+  border: 1px solid currentColor;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  list-style-position: inside;
+}
+
+.news-archive[open] > summary {
+  margin-bottom: 1rem;
+}
+
+.news-archive[open] .news-show-more,
+.news-archive:not([open]) .news-show-less {
+  display: none;
+}
+
 /* Sponsors section */
 .sponsor-grid {
   display: flex;

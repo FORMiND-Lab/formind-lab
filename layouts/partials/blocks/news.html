@@ -1,0 +1,21 @@
+{{- $page := .wcPage -}}
+{{- $visibleCount := 4 -}}
+{{- $items := .wcBlock.content.items | default slice -}}
+{{- $renderOptions := dict "display" "block" -}}
+
+<div class="col-12">
+  {{ range first $visibleCount $items }}
+    {{ $page.RenderString $renderOptions (.text | emojify) }}
+  {{ end }}
+  {{ if gt (len $items) $visibleCount }}
+    <details class="news-archive">
+      <summary>
+        <span class="news-show-more">Show More</span>
+        <span class="news-show-less">Show Less</span>
+      </summary>
+      {{ range after $visibleCount $items }}
+        {{ $page.RenderString $renderOptions (.text | emojify) }}
+      {{ end }}
+    </details>
+  {{ end }}
+</div>

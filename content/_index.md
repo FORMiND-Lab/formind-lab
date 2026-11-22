@@ -20,34 +20,35 @@ sections:
 
         FORMiND Lab prioritizes **solid end-to-end improvements** in hardware design and verification, moving beyond paper/胶片-only "breakthroughs". Ultimately, our goal is to empower China's domestic hardware formal verification tools (with design considerations to follow) to achieve global leadership. 
   
-  - block: markdown
+  - block: news
     id: news
     content:
       title: News
       subtitle: ''
-      text: |
-        **Nov. 2026**: 🎉 Four papers have been accepted to **DATE 2027**: two from FORMiND Lab and two from collaborations with Prof. Qiang Xu and Prof. Hao Yan. Congratulations to all co-authors! We’ll release the code for our own bug hunter and datapath verifier later.
+      items:
+        - text: |-
+            **Nov. 2026**: 🎉 Four papers have been accepted to **DATE 2027**: two from FORMiND Lab and two from collaborations with Prof. Qiang Xu and Prof. Hao Yan. Congratulations to all co-authors! We’ll release the code for our own bug hunter and datapath verifier later.
+        - text: |-
+            **Aug. 2026**: 🎉Our project *"Research on Hardware Formal Verification Across Abstraction Levels for Complex Datapaths"* has been funded by the **NSFC Young Scientists Fund C Class** (国家自然科学基金青年科学基金C类). 🎉We are also honored to have contributed as a co-author to the work led by the CURE Lab, which received the **Best Paper Award at DAC 2026**. Congratulations to **Jiaying** and all collaborators!
+        - text: |-
+            **Aug. 2026**: 🎉We are delighted to welcome **Shenghu Han** and **Yusen Mo** as Ph.D. students, and **Zixiang Fu**, **Yubin Jin**, **Zihan Ming**, **Yiting Yang**, and **Huitong Zhang** as master's students. All seven joined FORMiND Lab in 2026.
+        - text: |-
+            **May 2026**: 🎉We are pleased to share that our paper has been accepted to **IWLS 2026**. This work represents the first project independently led by FORMiND Lab members, showcasing the growing strength of our young research team. Warm congratulations to **Xudong** and **Yusen** on this accomplishment.
+        - text: |-
+            **Mar. 2026**: 🎉1x**DAC** and 1x**FSE-TD**, congratulations to Jiaying.
+        - text: |-
+            **Jan. 2026**: 🎉1x**ICLR** and 1x**TCAD**, many thanks for all co-authors. We officially launched a collaboration with the HiSilicon Formal Verification Group, aiming to develop efficient word-level solvers and a bug-hunting framework for multi-property hardware verification. We are also delighted to welcome **Shenghu Han**, **Yusen Mo**, **Yiting Yang** and **Zixiang Fu**, who will join the FORMiND Lab in Fall 2026. In addition, we have three openings for Master’s candidates in 2026, and interested students are warmly encouraged to contact us via email.
+        - text: |-
+            **Dec. 2025**: We have open‑sourced **EquivFusion**, a verification toolchain built on CIRCT. The main contributors are Mengxia, Baoqi, Jiaying and Min.
+        - text: |-
+            **Sept. 2025**:  🎉One paper (Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding) has been accepted by NeurIPS 2025. Congrats to Xiangyu Wen, our awesome intern at Huawei (co-supervised by Junhua and me).
+        - text: |-
+            **Aug. 2025**: 🎉Warmly welcoming five new students **Yan Jiang**, **Shibo Zhao**, **Jiongming Chen**, **Jieying Wu**, and **Yang Zhang**, who will join the FORMiND Lab as master’s students in Fall 2025. Looking forward to an exciting journey together!
+        - text: |-
+            **Jul. 2025**: Min has safely landed at SEU! With four master's spots open, he's welcoming students passionate about AI4Formal to join the journey.
+        - text: |-
+            **Jun. 2025**: 🎉Dr. Min Li departed from Huawei Noah's Ark Lab and just launched the FORMiND Lab website; he will join Southeast University this summer. 🎉Welcoming **Xudong Hu** as the inaugural member, who commences his Ph.D. program in Fall 2025.
 
-        **Aug. 2026**: 🎉Our project *"Research on Hardware Formal Verification Across Abstraction Levels for Complex Datapaths"* has been funded by the **NSFC Young Scientists Fund C Class** (国家自然科学基金青年科学基金C类). 🎉We are also honored to have contributed as a co-author to the work led by the CURE Lab, which received the **Best Paper Award at DAC 2026**. Congratulations to **Jiaying** and all collaborators!
-
-        **Aug. 2026**: 🎉We are delighted to welcome **Shenghu Han** and **Yusen Mo** as Ph.D. students, and **Zixiang Fu**, **Yubin Jin**, **Zihan Ming**, **Yiting Yang**, and **Huitong Zhang** as master's students. All seven joined FORMiND Lab in 2026.
-
-        **May 2026**: 🎉We are pleased to share that our paper has been accepted to **IWLS 2026**. This work represents the first project independently led by FORMiND Lab members, showcasing the growing strength of our young research team. Warm congratulations to **Xudong** and **Yusen** on this accomplishment.
-
-        **Mar. 2026**: 🎉1x**DAC** and 1x**FSE-TD**, congratulations to Jiaying.
-        
-        **Jan. 2026**: 🎉1x**ICLR** and 1x**TCAD**, many thanks for all co-authors. We officially launched a collaboration with the HiSilicon Formal Verification Group, aiming to develop efficient word-level solvers and a bug-hunting framework for multi-property hardware verification. We are also delighted to welcome **Shenghu Han**, **Yusen Mo**, **Yiting Yang** and **Zixiang Fu**, who will join the FORMiND Lab in Fall 2026. In addition, we have three openings for Master’s candidates in 2026, and interested students are warmly encouraged to contact us via email.
-
-        **Dec. 2025**: We have open‑sourced **EquivFusion**, a verification toolchain built on CIRCT. The main contributors are Mengxia, Baoqi, Jiaying and Min. 
-
-        **Sept. 2025**:  🎉One paper (Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding) has been accepted by NeurIPS 2025. Congrats to Xiangyu Wen, our awesome intern at Huawei (co-supervised by Junhua and me).
-
-        **Aug. 2025**: 🎉Warmly welcoming five new students **Yan Jiang**, **Shibo Zhao**, **Jiongming Chen**, **Jieying Wu**, and **Yang Zhang**, who will join the FORMiND Lab as master’s students in Fall 2025. Looking forward to an exciting journey together!
-
-        **Jul. 2025**: Min has safely landed at SEU! With four master's spots open, he's welcoming students passionate about AI4Formal to join the journey.
-
-        **Jun. 2025**: 🎉Dr. Min Li departed from Huawei Noah's Ark Lab and just launched the FORMiND Lab website; he will join Southeast University this summer. 🎉Welcoming **Xudong Hu** as the inaugural member, who commences his Ph.D. program in Fall 2025.
-  
   - block: people
     id: people
     content:
