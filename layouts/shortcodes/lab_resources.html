@@ -3,14 +3,14 @@
 <div class="resource-grid">
   {{- with $resources.hardware }}
     <div class="resource-card">
-      <h3>{{ .title }}</h3>
+      <h2>{{ .title }}</h2>
       {{- with .description }}
         <p>{{ . }}</p>
       {{- end }}
       {{- if .workstations }}
         {{- range .workstations }}
           <div class="resource-subsection">
-            <h4>{{ .title | markdownify }}</h4>
+            <h3>{{ .title | markdownify }}</h3>
             <div class="resource-table-wrap">
               <table class="resource-table">
                 <tbody>
@@ -44,7 +44,7 @@
 
   {{- with $resources.software }}
     <div class="resource-card">
-      <h3>{{ .title }}</h3>
+      <h2>{{ .title }}</h2>
       <div class="resource-table-wrap">
         <table class="resource-table">
           <tbody>
@@ -62,7 +62,7 @@
 
   {{- with $resources.tools }}
     <div class="resource-card">
-      <h3>{{ .title }}</h3>
+      <h2>{{ .title }}</h2>
       <div class="resource-table-wrap">
         <table class="resource-table">
           <tbody>
