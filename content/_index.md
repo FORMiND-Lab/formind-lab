@@ -112,7 +112,7 @@ sections:
 
         - <span class="pub-badge">Preprint</span>**Arisca: A Parameterized Symbolic Algebra Framework for Arithmetic Circuit Verification**[🔗](https://arxiv.org/pdf/2607.10257)\
           Kezhi Li, **Min Li**, Qiang Xu
-        - <span class="pub-badge" data-venue="date">DATE'27</span>**ReCAP: Boosting Multi-Property Bug Hunting via Similarity-Guided Counterexample Relaying**[📄](files/papers/ReCAP_DATE27.pdf)\
+        - <span class="pub-badge" data-venue="date">DATE'27</span>**ReCAP: Boosting Multi-Property Bug Hunting via Similarity-Guided Counterexample Relaying**[📄](files/papers/ReCAP_DATE27.pdf) <a href="https://github.com/FORMiND-Lab/ReCAP" aria-label="ReCAP source code on GitHub" title="ReCAP source code on GitHub"><i class="fab fa-github" aria-hidden="true"></i></a>\
           Jieying Wu, Yan Jiang, Shenghu Han, Jiongming Chen, Wenji Fang, Xingtong Yang, Zhiyao Xie, **Min Li**\
           Design, Automation and Test in Europe Conference (CCF-B), 2027.
         - <span class="pub-badge" data-venue="date">DATE'27</span>**BUTTRESS: Converging Hard Datapath Equivalence Proofs from the Miter Alone**\
