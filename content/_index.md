@@ -119,7 +119,6 @@ sections:
           Yang Zhang, Shibo Zhao, Wenji Fang, Jiongming Chen, Kezhi Li, Xingtong Yang, Zhiyao Xie, **Min Li**\
           Design, Automation and Test in Europe Conference (CCF-B), 2027.
         - <span class="pub-badge" data-venue="date">DATE'27</span>**Beyond Greedy Rewriting: State-Aware Beam Search for SCA-Based Multiplier Verification** <a href="https://github.com/FORMiND-Lab/BEAM" aria-label="BEAM source code on GitHub" title="BEAM source code on GitHub"><i class="fab fa-github" aria-hidden="true"></i></a>\
-          Jieying Wu, Yan Jiang, Shenghu Han, Jiongming Chen, Wenji Fang, Xingtong Yang, Zhiyao Xie, **Min Li**\\
           Kezhi Li, **Min Li**, Zhengyuan Shi, Qiang Xu\
           Design, Automation and Test in Europe Conference (CCF-B), 2027.
         - <span class="pub-badge" data-venue="dac">DAC'26</span>**Miter-Aware LUT Mapping: Aligning Structure and Solvability for Efficient Logic Equivalence Checking**[🔗](https://arxiv.org/pdf/2607.07164)\
